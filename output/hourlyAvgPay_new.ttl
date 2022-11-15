@@ -1,0 +1,1110 @@
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/58_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "58_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/63_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "63_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.62"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/98_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "98_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.51"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/5_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "5_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/25_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "25_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.91"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/30_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "30_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.11"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/73_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "73_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.39"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/17_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "17_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.27"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/65_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "65_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/4_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "4_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.55"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/40_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "40_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.17"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/32_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "32_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.95"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/80_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "80_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.16"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/19_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "19_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "7.89"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/24_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "24_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.16"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/67_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "67_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.17"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/72_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "72_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.03"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/59_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "59_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.46"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/6_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "6_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.17"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/34_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "34_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/82_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "82_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.28"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/26_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "26_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.75"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/69_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "69_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.54"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/74_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "74_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.55"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/18_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "18_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/66_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "66_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.55"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/8_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "8_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "8.13"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/41_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "41_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.36"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/28_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "28_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.76"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/33_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "33_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.29"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/76_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "76_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.25"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/81_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "81_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "15.59"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/68_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "68_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.32"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/7_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "7_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.69"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/43_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "43_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.13"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/91_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "91_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "14.29"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/35_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "35_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/78_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "78_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/83_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "83_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.74"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/27_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "27_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.71"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/75_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "75_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.21"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/10_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "10_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/9_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "9_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.58"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/50_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "50_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.06"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/37_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "37_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/42_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "42_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.05"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/85_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "85_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.05"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/90_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "90_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.57"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/29_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "29_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/77_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "77_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.02"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/52_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "52_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.45"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/39_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "39_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.63"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/44_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "44_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.38"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/87_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "87_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.92"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/92_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "92_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.55"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/36_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "36_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.27"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/79_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "79_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.69"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/84_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "84_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.85"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/11_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "11_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.13"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/46_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "46_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.14"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/51_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "51_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.58"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/94_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "94_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.57"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/38_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "38_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2016 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.26"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/86_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "86_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/13_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "13_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "9.82"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/61_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "61_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/48_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "48_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.76"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/53_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "53_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.46"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/96_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "96_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "15.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/45_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "45_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.41"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/88_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Irish" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "88_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "18.69"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/93_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "93_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "16.11"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/20_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "20_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.81"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/12_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "12_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.69"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/55_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "55_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.74"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/60_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "60_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.16"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/47_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "47_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.78"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/95_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "95_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "14.07"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/2_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "2_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.07"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/22_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "22_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.55"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/70_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "70_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "14.43"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/14_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "14_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/57_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "57_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/62_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "62_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.95"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/49_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "49_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.71"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/54_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "54_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2017 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.53"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/97_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Pakistani/ Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "97_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.03"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/89_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "89_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2020 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.66"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/1_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "1_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.54"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/101_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "101_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "14.03"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/16_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "16_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.41"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/21_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "21_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.83"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/64_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "64_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.87"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/56_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "56_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2018 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "11.82"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/99_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "99_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "13.46"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/3_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Black" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "3_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2013 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.27"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/31_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "31_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.91"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/23_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "All" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "23_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2015 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "10.82"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/71_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Mixed" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "71_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2019 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/100_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "White Irish" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "100_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2021 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "18.14"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/15_hourlyPay>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/HourlyAvgPay> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicityID>
+                "Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "15_hourlyPay" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2014 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "12.03"^^<http://www.w3.org/2001/XMLSchema#double> .

@@ -1,0 +1,111 @@
+ID,Measure,Income ,Time,Time_type,Ethnicity,Ethnicity_type,Geography,Value,Value_type,Denominator
+1_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2009,Three-year average,White,ONS 5+2,K02000001,7,%,66117
+2_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2009,Three-year average,White,ONS 5+2,K02000001,4,%,66117
+3_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2009,Three-year average,White,ONS 5+2,K02000001,3,%,66117
+4_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2009,Three-year average,White,ONS 5+2,K02000001,2,%,66117
+5_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2009,Three-year average,White,ONS 5+2,K02000001,1,%,66117
+6_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2009,Three-year average,White,ONS 5+2,K02000001,4,%,66117
+7_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2009,Three-year average,White,ONS 5+2,K02000001,27,%,66117
+8_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2009,Three-year average,White,ONS 5+2,K02000001,19,%,66117
+9_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2009,Three-year average,White,ONS 5+2,K02000001,14,%,66117
+10_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2009,Three-year average,White,ONS 5+2,K02000001,10,%,66117
+11_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2009,Three-year average,White,ONS 5+2,K02000001,9,%,66117
+12_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2010,Three-year average,White,ONS 5+2,K02000001,7,%,61420
+13_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2010,Three-year average,White,ONS 5+2,K02000001,4,%,61420
+14_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2010,Three-year average,White,ONS 5+2,K02000001,3,%,61420
+15_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2010,Three-year average,White,ONS 5+2,K02000001,2,%,61420
+16_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2010,Three-year average,White,ONS 5+2,K02000001,1,%,61420
+17_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2010,Three-year average,White,ONS 5+2,K02000001,4,%,61420
+18_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2010,Three-year average,White,ONS 5+2,K02000001,26,%,61420
+19_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2010,Three-year average,White,ONS 5+2,K02000001,19,%,61420
+20_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2010,Three-year average,White,ONS 5+2,K02000001,14,%,61420
+21_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2010,Three-year average,White,ONS 5+2,K02000001,10,%,61420
+22_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2010,Three-year average,White,ONS 5+2,K02000001,9,%,61420
+23_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2011,Three-year average,White,ONS 5+2,K02000001,7,%,56608
+24_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2011,Three-year average,White,ONS 5+2,K02000001,5,%,56608
+25_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2011,Three-year average,White,ONS 5+2,K02000001,3,%,56608
+26_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2011,Three-year average,White,ONS 5+2,K02000001,2,%,56608
+27_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2011,Three-year average,White,ONS 5+2,K02000001,1,%,56608
+28_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2011,Three-year average,White,ONS 5+2,K02000001,4,%,56608
+29_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2011,Three-year average,White,ONS 5+2,K02000001,25,%,56608
+30_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2011,Three-year average,White,ONS 5+2,K02000001,19,%,56608
+31_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2011,Three-year average,White,ONS 5+2,K02000001,14,%,56608
+32_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2011,Three-year average,White,ONS 5+2,K02000001,10,%,56608
+33_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2011,Three-year average,White,ONS 5+2,K02000001,8,%,56608
+34_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2012,Three-year average,White,ONS 5+2,K02000001,7,%,55400
+35_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2012,Three-year average,White,ONS 5+2,K02000001,5,%,55400
+36_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2012,Three-year average,White,ONS 5+2,K02000001,3,%,55400
+37_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2012,Three-year average,White,ONS 5+2,K02000001,2,%,55400
+38_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2012,Three-year average,White,ONS 5+2,K02000001,2,%,55400
+39_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2012,Three-year average,White,ONS 5+2,K02000001,5,%,55400
+40_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2012,Three-year average,White,ONS 5+2,K02000001,25,%,55400
+41_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2012,Three-year average,White,ONS 5+2,K02000001,19,%,55400
+42_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2012,Three-year average,White,ONS 5+2,K02000001,14,%,55400
+43_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2012,Three-year average,White,ONS 5+2,K02000001,10,%,55400
+44_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2012,Three-year average,White,ONS 5+2,K02000001,8,%,55400
+45_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2013,Three-year average,White,ONS 5+2,K02000001,7,%,54399
+46_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2013,Three-year average,White,ONS 5+2,K02000001,5,%,54399
+47_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2013,Three-year average,White,ONS 5+2,K02000001,3,%,54399
+48_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2013,Three-year average,White,ONS 5+2,K02000001,2,%,54399
+49_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2013,Three-year average,White,ONS 5+2,K02000001,2,%,54399
+50_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2013,Three-year average,White,ONS 5+2,K02000001,5,%,54399
+51_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2013,Three-year average,White,ONS 5+2,K02000001,24,%,54399
+52_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2013,Three-year average,White,ONS 5+2,K02000001,19,%,54399
+53_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2013,Three-year average,White,ONS 5+2,K02000001,14,%,54399
+54_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2013,Three-year average,White,ONS 5+2,K02000001,10,%,54399
+55_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2013,Three-year average,White,ONS 5+2,K02000001,8,%,54399
+56_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2014,Three-year average,White,ONS 5+2,K02000001,7,%,53560
+57_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2014,Three-year average,White,ONS 5+2,K02000001,5,%,53560
+58_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2014,Three-year average,White,ONS 5+2,K02000001,3,%,53560
+59_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2014,Three-year average,White,ONS 5+2,K02000001,2,%,53560
+60_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2014,Three-year average,White,ONS 5+2,K02000001,2,%,53560
+61_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2014,Three-year average,White,ONS 5+2,K02000001,5,%,53560
+62_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2014,Three-year average,White,ONS 5+2,K02000001,23,%,53560
+63_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2014,Three-year average,White,ONS 5+2,K02000001,19,%,53560
+64_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2014,Three-year average,White,ONS 5+2,K02000001,14,%,53560
+65_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2014,Three-year average,White,ONS 5+2,K02000001,10,%,53560
+66_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2014,Three-year average,White,ONS 5+2,K02000001,7,%,53560
+67_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2015,Three-year average,White,ONS 5+2,K02000001,8,%,53146
+68_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2015,Three-year average,White,ONS 5+2,K02000001,5,%,53146
+69_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2015,Three-year average,White,ONS 5+2,K02000001,4,%,53146
+70_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2015,Three-year average,White,ONS 5+2,K02000001,3,%,53146
+71_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2015,Three-year average,White,ONS 5+2,K02000001,2,%,53146
+72_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2015,Three-year average,White,ONS 5+2,K02000001,5,%,53146
+73_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2015,Three-year average,White,ONS 5+2,K02000001,22,%,53146
+74_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2015,Three-year average,White,ONS 5+2,K02000001,19,%,53146
+75_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2015,Three-year average,White,ONS 5+2,K02000001,14,%,53146
+76_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2015,Three-year average,White,ONS 5+2,K02000001,11,%,53146
+77_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2015,Three-year average,White,ONS 5+2,K02000001,7,%,53146
+78_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2016,Three-year average,White,ONS 5+2,K02000001,8,%,52924
+79_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2016,Three-year average,White,ONS 5+2,K02000001,6,%,52924
+80_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2016,Three-year average,White,ONS 5+2,K02000001,4,%,52924
+81_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2016,Three-year average,White,ONS 5+2,K02000001,3,%,52924
+82_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2016,Three-year average,White,ONS 5+2,K02000001,2,%,52924
+83_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2016,Three-year average,White,ONS 5+2,K02000001,6,%,52924
+84_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2016,Three-year average,White,ONS 5+2,K02000001,21,%,52924
+85_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2016,Three-year average,White,ONS 5+2,K02000001,19,%,52924
+86_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2016,Three-year average,White,ONS 5+2,K02000001,14,%,52924
+87_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2016,Three-year average,White,ONS 5+2,K02000001,11,%,52924
+88_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2016,Three-year average,White,ONS 5+2,K02000001,7,%,52924
+89_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2017,Three-year average,White,ONS 5+2,K02000001,8,%,52533
+90_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2017,Three-year average,White,ONS 5+2,K02000001,6,%,52533
+91_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2017,Three-year average,White,ONS 5+2,K02000001,4,%,52533
+92_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2017,Three-year average,White,ONS 5+2,K02000001,3,%,52533
+93_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2017,Three-year average,White,ONS 5+2,K02000001,2,%,52533
+94_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2017,Three-year average,White,ONS 5+2,K02000001,6,%,52533
+95_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2017,Three-year average,White,ONS 5+2,K02000001,21,%,52533
+96_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2017,Three-year average,White,ONS 5+2,K02000001,19,%,52533
+97_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2017,Three-year average,White,ONS 5+2,K02000001,14,%,52533
+98_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2017,Three-year average,White,ONS 5+2,K02000001,11,%,52533
+99_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2017,Three-year average,White,ONS 5+2,K02000001,6,%,52533
+100_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2018,Three-year average,White,ONS 5+2,K02000001,8,%,44228
+101_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2018,Three-year average,White,ONS 5+2,K02000001,6,%,44228
+102_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2018,Three-year average,White,ONS 5+2,K02000001,4,%,44228
+103_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2018,Three-year average,White,ONS 5+2,K02000001,3,%,44228
+104_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2018,Three-year average,White,ONS 5+2,K02000001,2,%,44228
+105_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2018,Three-year average,White,ONS 5+2,K02000001,6,%,44228
+106_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2018,Three-year average,White,ONS 5+2,K02000001,20,%,44228
+107_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2018,Three-year average,White,ONS 5+2,K02000001,19,%,44228
+108_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2018,Three-year average,White,ONS 5+2,K02000001,14,%,44228
+109_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2018,Three-year average,White,ONS 5+2,K02000001,11,%,44228
+110_whiteEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2018,Three-year average,White,ONS 5+2,K02000001,6,%,44228

@@ -1,0 +1,547 @@
+ID,Measure,Measure_type,Ethnicity,Ethnicity_type,Time,Time_Type,Local,Age,Value,Confidence_interval,Numerator,Denominator,Sample_size
+5_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Adur,16+,3.6,1.4,1100,29700,702
+6_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Adur,16+,3.5,2.2,1000,29000,686
+7_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,All,16+,4.8,0.1,1379000,28979100,404916
+8_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2004,year,All,16+,10.7,0.7,243300,2272100,21028
+9_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,All,16+,4.2,0.1,1133500,26681200,383568
+53_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Berwick-upon-Tweed,16+,4.6,1.7,600,12500,594
+54_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Berwick-upon-Tweed,16+,4.6,2.7,600,12400,591
+146_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Carmarthenshire,16+,4.5,0.9,3500,76800,1891
+147_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2004,year,Carmarthenshire,16+,5.6,12.6,100,1300,32
+148_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Carmarthenshire,16+,4.5,1.5,3400,75400,1859
+339_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Guildford,16+,2.7,1.3,1900,69700,635
+340_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Guildford,16+,2.5,2,1700,66800,607
+389_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Hinckley and Bosworth,16+,2.8,1.3,1500,54600,610
+390_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Hinckley and Bosworth,16+,2.9,2.1,1500,53400,597
+416_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Kerrier,16+,6,1.5,2700,44800,946
+417_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Kerrier,16+,6,2.4,2700,44500,941
+453_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Liverpool,16+,7.5,1.3,14700,194600,1686
+454_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2004,year,Liverpool,16+,21.9,13.7,2500,11200,88
+455_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Liverpool,16+,6.7,1.9,12200,183400,1596
+481_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Merton,16+,6.8,1.9,7300,108000,659
+482_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2004,year,Merton,16+,8.5,6.9,2300,27500,159
+483_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Merton,16+,6.2,3.3,5000,79900,497
+517_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Newham,16+,9.2,2.1,9600,105100,733
+518_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2004,year,Newham,16+,8,4,5200,64800,435
+519_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Newham,16+,11.1,5.6,4500,40300,298
+560_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Northampton,16+,3.2,1.4,3400,105000,630
+561_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2004,year,Northampton,16+,8.6,10.4,1000,12200,69
+562_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Northampton,16+,2.5,2.1,2300,92500,560
+721_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,South Lakeland,16+,2.7,1.1,1400,52800,827
+722_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,South Lakeland,16+,2.8,1.8,1400,51900,819
+760_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,Stafford,16+,3.1,1.3,2000,63200,686
+761_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,Stafford,16+,3.2,2.1,2000,61600,667
+904_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,West Lothian,16+,3.8,1,3400,88300,1307
+905_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,West Lothian,16+,3.9,1.7,3400,87200,1293
+950_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2004,year,York,16+,2.6,0.8,2600,99800,1543
+951_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2004,year,York,16+,2.5,1.2,2500,97900,1521
+957_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Adur,16+,4.3,1.5,1300,29600,735
+958_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Adur,16+,4.4,2.4,1300,28500,716
+959_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,All,16+,4.9,0.1,1442700,29359900,386866
+960_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2005,year,All,16+,10.6,0.7,258600,2440200,21172
+961_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,All,16+,4.4,0.1,1182500,26895800,365397
+1006_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Berwick-upon-Tweed,16+,5.3,1.9,700,12400,537
+1007_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Berwick-upon-Tweed,16+,5.3,3,700,12400,537
+1101_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Carmarthenshire,16+,3,0.8,2400,79700,1663
+1102_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Carmarthenshire,16+,2.7,1.2,2200,78800,1645
+1291_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Guildford,16+,4.6,1.8,3300,71300,548
+1292_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Guildford,16+,4.4,2.8,3000,67300,524
+1342_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Hinckley and Bosworth,16+,3.6,1.4,2000,56900,680
+1343_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Hinckley and Bosworth,16+,3.6,2.2,2000,56100,671
+1368_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Kerrier,16+,4.1,1.3,1900,45600,826
+1369_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Kerrier,16+,4.1,2.2,1900,44900,819
+1405_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Liverpool,16+,9.1,1.3,18400,203100,1748
+1406_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2005,year,Liverpool,16+,16.7,10.8,2700,16100,115
+1407_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Liverpool,16+,8.2,2.1,15300,186400,1629
+1433_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Merton,16+,7.6,2.1,7800,101800,641
+1434_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2005,year,Merton,16+,15.8,9.2,4200,26500,151
+1435_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Merton,16+,4.7,3,3600,75300,490
+1469_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Newham,16+,9.3,2.1,10000,107300,750
+1470_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2005,year,Newham,16+,11.7,4.8,7700,65900,436
+1471_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Newham,16+,5.6,4,2300,41400,314
+1513_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Northampton,16+,4.9,1.7,5100,104100,638
+1514_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2005,year,Northampton,16+,5.7,8.4,800,13700,74
+1515_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Northampton,16+,4.8,2.8,4300,90000,562
+1673_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,South Lakeland,16+,2.5,1.1,1300,51400,737
+1674_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,South Lakeland,16+,2.5,1.8,1300,50700,730
+1710_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,Stafford,16+,2,1.1,1200,61700,668
+1711_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,Stafford,16+,1.8,1.6,1100,59700,655
+1855_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,West Lothian,16+,4.5,1.1,3800,86100,1299
+1856_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,West Lothian,16+,4.5,1.8,3800,84800,1284
+1901_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2005,year,York,16+,2.2,0.8,2100,99500,1438
+1902_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2005,year,York,16+,2.2,1.2,2100,98300,1419
+1908_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Adur,16+,5.1,3.3,1700,32600,168
+1909_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Adur,16+,4.4,4.9,1400,31700,165
+1910_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,All,16+,5.4,0.1,1598500,29787300,277489
+1911_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2006,year,All,16+,11.5,0.7,303900,2653700,19346
+1912_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,All,16+,4.8,0.1,1292900,27113700,257987
+1958_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Berwick-upon-Tweed,16+,2.3,2.8,300,11500,109
+1959_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Berwick-upon-Tweed,16+,2.4,4.5,300,11200,108
+2049_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Carmarthenshire,16+,4.3,1,3400,79700,1674
+2050_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Carmarthenshire,16+,4.4,1.6,3400,78900,1659
+2234_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Guildford,16+,4.5,2.2,3400,75200,326
+2235_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Guildford,16+,4.4,3.6,3000,68500,304
+2282_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Hinckley and Bosworth,16+,4.4,2.3,2400,54500,306
+2283_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Hinckley and Bosworth,16+,4,3.5,2100,53200,300
+2307_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Kerrier,16+,7.2,2.9,3200,44700,311
+2308_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Kerrier,16+,6.9,4.5,3000,43400,306
+2344_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Liverpool,16+,9,1.4,18800,208100,1635
+2345_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2006,year,Liverpool,16+,18,11.6,2700,15100,105
+2346_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Liverpool,16+,8.3,2.2,16100,193100,1529
+2370_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Merton,16+,7,1.8,7400,106100,758
+2371_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2006,year,Merton,16+,14.9,8.1,3600,24400,184
+2372_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Merton,16+,4.6,2.7,3800,81700,574
+2406_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Newham,16+,12.6,2.3,14700,116100,789
+2407_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2006,year,Newham,16+,16.9,5.3,12500,74400,481
+2408_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Newham,16+,5.1,3.9,2100,41800,308
+2446_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Northampton,16+,5.6,2,6000,107200,483
+2447_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2006,year,Northampton,16+,14.9,17.2,1300,8700,41
+2448_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Northampton,16+,4.7,3.1,4700,98500,442
+2597_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,South Lakeland,16+,5.1,2.7,2600,50200,260
+2598_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,South Lakeland,16+,5.2,4.3,2600,49100,257
+2635_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,Stafford,16+,3.4,2.1,2300,67100,291
+2636_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,Stafford,16+,3.5,3.4,2300,65500,286
+2774_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,West Lothian,16+,5.1,1.2,4600,90600,1304
+2775_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,West Lothian,16+,4.9,1.9,4300,88800,1286
+2818_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2006,year,York,16+,5.2,1.2,5500,105800,1355
+2819_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2006,year,York,16+,5.1,1.9,5200,102800,1327
+2825_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Adur,16+,2,2.1,600,32300,169
+2826_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Adur,16+,1.1,2.5,300,31800,166
+2827_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,All,16+,5.2,0.1,1558700,30037600,274276
+2828_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2007,year,All,16+,10.7,0.7,299100,2808900,20054
+2829_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,All,16+,4.6,0.1,1258100,27210700,254069
+2874_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Berwick-upon-Tweed,16+,6.2,4.3,800,12500,119
+2875_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Berwick-upon-Tweed,16+,6.3,6.9,800,12400,118
+2966_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Carmarthenshire,16+,5.3,1.1,4500,83600,1621
+2967_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Carmarthenshire,16+,5.2,1.7,4300,81900,1597
+3150_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Guildford,16+,2.9,1.8,2200,76700,320
+3151_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Guildford,16+,2.2,2.6,1600,71800,299
+3199_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Hinckley and Bosworth,16+,2.3,1.7,1200,52700,301
+3200_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Hinckley and Bosworth,16+,2.3,2.7,1200,52100,298
+3224_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Kerrier,16+,6,2.8,2900,47400,276
+3225_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Kerrier,16+,5.4,4.2,2600,46800,274
+3261_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Liverpool,16+,8.4,1.4,17800,211600,1498
+3262_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2007,year,Liverpool,16+,14,10.2,2200,16100,112
+3263_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Liverpool,16+,7.9,2.2,15500,195600,1384
+3289_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Merton,16+,4.6,1.5,5000,110500,704
+3290_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2007,year,Merton,16+,7,5.4,2300,33200,211
+3291_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Merton,16+,3.5,2.6,2700,77100,492
+3325_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Newham,16+,10.4,2.2,12200,117600,737
+3326_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2007,year,Newham,16+,12.3,4.7,9400,76000,479
+3327_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Newham,16+,6.9,4.9,2900,41600,258
+3364_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Northampton,16+,3.4,1.6,3900,112200,522
+3365_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2007,year,Northampton,16+,6.5,11.2,500,8100,47
+3366_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Northampton,16+,3.2,2.5,3300,104000,475
+3518_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,South Lakeland,16+,4.7,2.3,2400,50800,318
+3519_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,South Lakeland,16+,4.8,3.7,2400,50200,316
+3557_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,Stafford,16+,2.8,1.8,1800,65700,308
+3558_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,Stafford,16+,2.8,2.9,1800,64900,304
+3697_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,West Lothian,16+,5.2,1.2,4700,90500,1260
+3698_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,West Lothian,16+,5.2,1.9,4600,89100,1247
+3742_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2007,year,York,16+,4.1,1.1,4300,103500,1348
+3743_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2007,year,York,16+,4,1.7,4100,101200,1322
+3749_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Adur,16+,6.9,3.9,2200,32200,162
+3750_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Adur,16+,7,6.3,2200,31600,158
+3751_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,All,16+,5.7,0.1,1738400,30369700,269513
+3752_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2008,year,All,16+,11,0.7,327100,2963700,20840
+3753_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,All,16+,5.1,0.1,1410400,27388500,248530
+3797_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Berwick-upon-Tweed,16+,7.3,4.7,1000,13700,119
+3798_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Berwick-upon-Tweed,16+,7.3,7.4,1000,13700,119
+3888_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Carmarthenshire,16+,6.4,1.2,5600,86500,1481
+3889_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Carmarthenshire,16+,6.4,2,5400,84800,1462
+4072_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Guildford,16+,0.9,1.1,700,74500,311
+4073_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Guildford,16+,0.9,1.7,700,71300,297
+4121_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Hinckley and Bosworth,16+,4,2.4,2200,55600,260
+4122_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Hinckley and Bosworth,16+,4.1,3.9,2200,53000,253
+4146_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Kerrier,16+,8.6,3.5,3800,43900,241
+4147_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Kerrier,16+,8.7,5.6,3800,43600,240
+4184_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Liverpool,16+,6.9,1.3,13700,198500,1384
+4185_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2008,year,Liverpool,16+,3.7,5.5,600,15900,111
+4186_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Liverpool,16+,7.2,2.2,13100,182300,1272
+4212_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Merton,16+,6.2,2,6900,112400,580
+4213_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2008,year,Merton,16+,8.6,7,2700,31600,153
+4214_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Merton,16+,5.2,3.3,4200,80600,426
+4248_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Newham,16+,9.6,2.1,12100,125400,747
+4249_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2008,year,Newham,16+,13.7,4.8,10500,76300,487
+4250_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Newham,16+,3.2,3.4,1600,49100,260
+4288_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Northampton,16+,5,1.9,5700,112800,523
+4289_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2008,year,Northampton,16+,7.1,10.9,900,12500,54
+4290_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Northampton,16+,4.8,3,4800,100300,469
+4445_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,South Lakeland,16+,2.7,1.8,1400,53500,291
+4446_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,South Lakeland,16+,2.7,2.9,1400,52900,289
+4480_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,Stafford,16+,5,2.4,3300,65100,312
+4481_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,Stafford,16+,5.2,4,3300,62400,304
+4621_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,West Lothian,16+,4.2,1.1,3800,91400,1253
+4622_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,West Lothian,16+,4.2,1.8,3800,90600,1247
+4666_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2008,year,York,16+,4.1,1,4300,104300,1404
+4667_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2008,year,York,16+,14.9,18.4,500,3400,36
+4668_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2008,year,York,16+,3.8,1.6,3800,100900,1368
+4674_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Adur,16+,7.9,4.2,2500,31400,158
+4675_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Adur,16+,8.4,7,2500,29400,150
+4676_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,All,16+,7.7,0.1,2343300,30571600,260799
+4677_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2009,year,All,16+,13.1,0.7,403300,3069900,20579
+4678_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,All,16+,7.1,0.2,1937600,27477000,240024
+4723_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Berwick-upon-Tweed,16+,1.4,2.1,200,12900,119
+4724_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Berwick-upon-Tweed,16+,1.4,3.3,200,12900,119
+4815_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Carmarthenshire,16+,8.4,1.4,6900,83000,1429
+4816_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Carmarthenshire,16+,7.9,2.2,6400,80700,1403
+5001_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Guildford,16+,5.3,2.7,3700,69700,261
+5002_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Guildford,16+,5.5,4.5,3700,67000,249
+5049_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Hinckley and Bosworth,16+,7.6,3.3,4400,58200,250
+5050_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Hinckley and Bosworth,16+,6.2,4.8,3500,57300,244
+5074_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Kerrier,16+,4,2.4,1600,40900,260
+5075_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Kerrier,16+,3.3,3.4,1300,40600,257
+5111_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Liverpool,16+,12.4,1.7,26600,213400,1480
+5112_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2009,year,Liverpool,16+,23.4,13.1,3300,14300,100
+5113_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Liverpool,16+,11.7,2.7,23200,198800,1379
+5139_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Merton,16+,7.1,1.9,7700,109000,668
+5140_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2009,year,Merton,16+,13.2,7.2,4600,35100,214
+5141_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Merton,16+,4.2,2.9,3100,73400,452
+5176_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Newham,16+,15,2.5,19200,128600,772
+5177_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2009,year,Newham,16+,17.5,5.2,14200,81000,507
+5178_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Newham,16+,10.7,5.9,5100,47500,265
+5217_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Northampton,16+,9.8,2.6,11400,117200,490
+5218_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2009,year,Northampton,16+,18.1,16.2,2400,13200,54
+5219_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Northampton,16+,8.7,4.2,9100,103900,436
+5368_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,South Lakeland,16+,4,2.2,2100,52000,302
+5369_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,South Lakeland,16+,4,3.5,2100,52000,302
+5406_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,Stafford,16+,7.2,2.8,4500,63300,321
+5407_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,Stafford,16+,6.8,4.4,4200,62300,316
+5549_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,West Lothian,16+,6.4,1.4,5700,89900,1188
+5550_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,West Lothian,16+,6.3,2.2,5600,88000,1169
+5595_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2009,year,York,16+,6,1.3,6100,101900,1379
+5596_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2009,year,York,16+,4.4,11.2,100,3200,32
+5597_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2009,year,York,16+,6.1,2,6000,98700,1346
+5603_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Adur,16+,4.8,3.7,1400,30200,126
+5604_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Adur,16+,5,6.1,1400,28800,121
+5605_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,All,16+,7.6,0.1,2341200,30611600,257336
+5606_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2010,year,All,16+,12.9,0.7,410600,3192900,21036
+5607_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,All,16+,7,0.2,1928200,27389200,236072
+5741_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Carmarthenshire,16+,8.2,1.4,6800,83900,1473
+5742_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Carmarthenshire,16+,8.4,2.2,6800,82000,1451
+5927_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Guildford,16+,1.9,1.8,1400,72400,237
+5928_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Guildford,16+,2,2.9,1400,71100,229
+5976_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Hinckley and Bosworth,16+,11,4.1,5700,52300,226
+5977_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Hinckley and Bosworth,16+,10.5,6.4,5300,50100,218
+6001_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Kerrier,16+,14,4.3,6500,46700,251
+6002_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Kerrier,16+,14.1,6.9,6500,46400,247
+6038_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Liverpool,16+,12.5,1.6,27600,221600,1650
+6039_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2010,year,Liverpool,16+,17.3,10.6,2800,16500,121
+6040_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Liverpool,16+,12.1,2.6,24800,205100,1528
+6066_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Merton,16+,7.6,1.9,8200,107800,787
+6067_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2010,year,Merton,16+,12.5,6.5,4200,33500,249
+6068_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Merton,16+,5.5,3,4000,74000,535
+6102_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Newham,16+,13.8,2.4,18600,134700,780
+6103_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2010,year,Newham,16+,17.9,5.2,16100,90100,517
+6104_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Newham,16+,5.6,4.4,2400,43300,258
+6145_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Northampton,16+,6.2,2.2,6900,111200,472
+6146_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2010,year,Northampton,16+,16.1,14.9,2000,12300,58
+6147_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Northampton,16+,4.6,3.2,4500,98200,412
+6301_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,South Lakeland,16+,4.6,2.3,2400,52400,313
+6302_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,South Lakeland,16+,4.6,3.7,2400,52400,313
+6340_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,Stafford,16+,6.6,2.7,4200,63700,317
+6341_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,Stafford,16+,6.8,4.5,4200,61600,307
+6480_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,West Lothian,16+,6,1.4,5400,90800,1142
+6481_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,West Lothian,16+,6,2.2,5400,89700,1131
+6523_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2010,year,York,16+,5.7,1.2,5600,99300,1345
+6524_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2010,year,York,16+,5.2,12.6,100,2400,30
+6525_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2010,year,York,16+,5.7,2,5500,96700,1312
+6528_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Adur,16+,5.9,4.2,1800,30100,118
+6529_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,All,16+,8,0.1,2476600,30853100,247751
+6550_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Berwick-upon-Tweed,16+,12.2,6.1,1400,11700,112
+6588_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Carmarthenshire,16+,7,1.3,6000,85400,1411
+6673_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Guildford,16+,2.5,1.8,1900,75300,296
+6694_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Hinckley and Bosworth,16+,12.1,4.4,6100,50800,213
+6705_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Kerrier,16+,4.3,2.4,1900,45000,269
+6720_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Liverpool,16+,11.1,1.7,24100,216500,1387
+6732_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Merton,16+,8.4,2,9000,107900,741
+6748_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Newham,16+,15.5,2.5,22000,142200,817
+6767_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Northampton,16+,7.6,2.6,8700,114500,409
+6834_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,South Lakeland,16+,2.4,1.8,1200,51200,284
+6851_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,Stafford,16+,5.8,2.6,3900,67500,302
+6912_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,West Lothian,16+,7.7,1.6,6900,90500,1068
+6932_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2011,year,York,16+,5.9,1.4,6200,105000,1151
+6938_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Adur,16+,4.3,4.1,1400,31900,96
+6939_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Adur,16+,4.3,6.4,1400,31900,96
+6940_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,All,16+,7.9,0.1,2454300,31121700,251778
+6941_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2012,year,All,16+,13.7,0.7,482100,3513400,22417
+6942_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,All,16+,7.1,0.2,1971400,27591200,228797
+6988_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Berwick-upon-Tweed,16+,6.7,4.4,800,11800,123
+6989_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Berwick-upon-Tweed,16+,6.7,7,800,11800,123
+7080_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Carmarthenshire,16+,5.1,1.1,4300,84100,1436
+7081_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Carmarthenshire,16+,4.9,1.8,4000,82300,1412
+7267_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Guildford,16+,5.5,2.7,3900,71300,274
+7268_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Guildford,16+,5.1,4.2,3300,65700,258
+7316_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Hinckley and Bosworth,16+,4.2,2.7,2300,53200,207
+7317_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Hinckley and Bosworth,16+,4.3,4.4,2300,52000,203
+7343_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Kerrier,16+,3.5,2.2,1500,43200,257
+7344_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Kerrier,16+,3.5,3.6,1500,43200,254
+7380_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Liverpool,16+,11.6,1.6,25800,221900,1523
+7381_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2012,year,Liverpool,16+,10.1,8.8,1500,14700,113
+7382_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Liverpool,16+,11.7,2.7,24300,207100,1404
+7408_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Merton,16+,7.2,1.8,7900,109400,754
+7409_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2012,year,Merton,16+,13.3,6.6,4800,36000,252
+7410_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Merton,16+,4.2,2.8,3100,73300,502
+7444_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Newham,16+,14.7,2.5,23100,157700,752
+7445_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2012,year,Newham,16+,19.1,5.3,21200,111000,520
+7446_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Newham,16+,4.1,4.1,1900,46700,231
+7486_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Northampton,16+,5.9,2.3,6600,112200,400
+7487_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2012,year,Northampton,16+,6.9,11.2,900,13300,49
+7488_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Northampton,16+,5.8,3.8,5700,98900,351
+7641_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,South Lakeland,16+,3.3,2.1,1800,53300,289
+7642_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,South Lakeland,16+,3.3,3.3,1800,53300,289
+7679_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,Stafford,16+,2.8,2,2000,69400,265
+7680_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,Stafford,16+,2.9,3.2,2000,67900,261
+7819_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,West Lothian,16+,5.3,1.3,4900,91400,1147
+7820_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,West Lothian,16+,5.5,2.1,4900,88900,1120
+7866_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2012,year,York,16+,5.3,1.2,5800,109300,1321
+7867_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2012,year,York,16+,4.2,10.2,100,2900,37
+7868_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2012,year,York,16+,5.4,1.9,5700,106400,1280
+7874_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Adur,16+,4.9,4.5,1600,32300,90
+7875_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Adur,16+,5.1,7.4,1600,31200,85
+7876_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,All,16+,7.5,0.1,2362500,31441000,251754
+7877_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2013,year,All,16+,13.8,0.7,493300,3584800,22668
+7878_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,All,16+,6.7,0.2,1867700,27837000,228891
+7925_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Berwick-upon-Tweed,16+,6.8,4.4,900,12700,127
+7926_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Berwick-upon-Tweed,16+,6.8,6.9,900,12700,127
+8018_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Carmarthenshire,16+,7.4,1.4,6400,86200,1412
+8019_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Carmarthenshire,16+,7.6,2.2,6400,84400,1385
+8204_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Guildford,16+,8.2,3.2,5700,69900,277
+8205_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Guildford,16+,8.6,5.3,5700,66300,264
+8253_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Hinckley and Bosworth,16+,5.1,3.1,2500,48400,194
+8254_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Hinckley and Bosworth,16+,5.4,5.1,2500,45700,188
+8280_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Kerrier,16+,5.8,3,2800,47400,231
+8281_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Kerrier,16+,5.9,4.8,2800,46800,230
+8317_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Liverpool,16+,11.9,1.6,27100,227000,1566
+8318_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2013,year,Liverpool,16+,24.4,12.1,3600,14900,120
+8319_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Liverpool,16+,11.1,2.6,23400,211800,1444
+8345_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Merton,16+,4.8,1.7,5500,114200,605
+8346_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2013,year,Merton,16+,7.5,6,2200,29100,183
+8347_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Merton,16+,3.8,2.9,3300,85100,422
+8381_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Newham,16+,12,2.3,19200,160200,781
+8382_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2013,year,Newham,16+,14.3,4.6,16900,118000,561
+8383_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Newham,16+,5.5,4.8,2300,42300,219
+8423_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Northampton,16+,8.7,2.6,10000,115100,441
+8424_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2013,year,Northampton,16+,7.5,11.4,1000,13900,51
+8425_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Northampton,16+,8.9,4.5,9000,101200,390
+8579_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,South Lakeland,16+,1.7,1.4,900,55000,307
+8580_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,South Lakeland,16+,1.7,2.3,900,55000,307
+8617_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,Stafford,16+,3.9,2.4,2700,69400,239
+8618_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,Stafford,16+,4,4,2700,66900,233
+8759_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,West Lothian,16+,7.5,1.5,6900,91400,1154
+8760_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,West Lothian,16+,7.7,2.4,6900,89900,1137
+8805_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2013,year,York,16+,4.6,1.1,4800,104800,1498
+8806_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2013,year,York,16+,4.6,8.8,200,4500,55
+8807_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2013,year,York,16+,4.6,1.7,4600,100300,1442
+8813_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Adur,16+,8,4.9,2500,31500,116
+8814_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Adur,16+,8.1,7.9,2500,31100,115
+8815_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,All,16+,6.2,0.1,1971400,31639500,250300
+8816_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2014,year,All,16+,10.8,0.6,396800,3686400,23126
+8817_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,All,16+,5.6,0.1,1569500,27897300,226780
+8863_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Berwick-upon-Tweed,16+,9.4,5,1100,11900,130
+8864_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Berwick-upon-Tweed,16+,9.4,7.9,1100,11900,130
+8955_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Carmarthenshire,16+,7.5,1.4,6500,86000,1420
+8956_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Carmarthenshire,16+,7.7,2.2,6500,83800,1387
+9137_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Guildford,16+,3,2,2200,72000,270
+9138_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Guildford,16+,2.6,3.1,1700,67100,253
+9186_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Hinckley and Bosworth,16+,6.8,3.7,3600,53300,179
+9187_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Hinckley and Bosworth,16+,6.8,5.8,3600,53300,179
+9212_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Kerrier,16+,7.4,3.2,3900,53200,264
+9213_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Kerrier,16+,7.4,5,3900,52800,261
+9250_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Liverpool,16+,12.3,1.7,27300,222000,1357
+9251_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2014,year,Liverpool,16+,15.4,9.6,3700,24300,137
+9252_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Liverpool,16+,11.9,2.9,23500,197500,1219
+9278_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Merton,16+,6.9,2,7700,112800,586
+9279_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2014,year,Merton,16+,9.6,6.4,3600,37900,202
+9280_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Merton,16+,5.5,3.6,4100,74600,383
+9314_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Newham,16+,10,2.2,15500,155800,702
+9315_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2014,year,Newham,16+,11.8,4.6,12400,104400,467
+9316_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Newham,16+,6.2,4.9,3200,51000,234
+9356_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Northampton,16+,5.1,2,5900,117200,460
+9357_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2014,year,Northampton,16+,10.6,13.9,1300,12400,47
+9358_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Northampton,16+,4.4,3.1,4600,104800,413
+9511_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,South Lakeland,16+,6,2.7,3000,49300,287
+9512_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,South Lakeland,16+,6.1,4.4,3000,48200,283
+9550_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,Stafford,16+,1.9,1.7,1200,60900,258
+9551_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,Stafford,16+,1.3,2.2,700,57900,244
+9687_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,West Lothian,16+,5.5,1.3,5300,95400,1187
+9688_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,West Lothian,16+,5.4,2.1,5000,93300,1160
+9730_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2014,year,York,16+,4,1,4200,104100,1526
+9731_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2014,year,York,16+,3.5,7.1,200,4900,64
+9732_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2014,year,York,16+,4.1,1.6,4000,99200,1460
+9738_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Adur,16+,6.9,4.7,2400,34100,111
+9739_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Adur,16+,6.9,7.5,2400,34100,111
+9740_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,All,16+,5.2,0.1,1675200,32015100,243172
+9741_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2015,year,All,16+,9.4,0.6,363900,3857000,22946
+9742_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,All,16+,4.7,0.1,1310000,28120500,219964
+9789_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Berwick-upon-Tweed,16+,3.9,3.6,500,13800,111
+9790_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Berwick-upon-Tweed,16+,3.9,5.7,500,13800,111
+9881_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Carmarthenshire,16+,5.6,1.2,4800,86900,1414
+9882_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2015,year,Carmarthenshire,16+,3,8.8,100,3200,36
+9883_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Carmarthenshire,16+,5.7,1.9,4700,83600,1377
+10060_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Guildford,16+,4.6,2.7,3300,72600,235
+10061_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2015,year,Guildford,16+,10.6,17.4,1200,11300,30
+10062_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Guildford,16+,3.5,4,2100,61300,205
+10110_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Hinckley and Bosworth,16+,3.2,2.5,1800,55600,183
+10111_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Hinckley and Bosworth,16+,3.2,4.1,1800,54700,180
+10136_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Kerrier,16+,2.4,2,1200,52600,225
+10137_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Kerrier,16+,2.4,3.2,1200,51800,221
+10173_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Liverpool,16+,7.6,1.4,16600,218800,1384
+10174_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2015,year,Liverpool,16+,23,10.7,5100,22400,148
+10175_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Liverpool,16+,5.8,2.1,11500,196400,1236
+10199_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Merton,16+,4.5,1.6,5200,115900,615
+10200_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2015,year,Merton,16+,7,5.6,2400,35000,200
+10201_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Merton,16+,3.5,2.8,2800,80900,415
+10233_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Newham,16+,8.9,2.1,15300,172100,730
+10234_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2015,year,Newham,16+,10.7,4.3,11100,104100,483
+10235_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Newham,16+,6.2,4.7,4200,68000,246
+10272_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Northampton,16+,1.7,1.2,2000,117600,440
+10273_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Northampton,16+,1.8,2.1,2000,106900,401
+10420_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,South Lakeland,16+,2.8,1.8,1400,50500,323
+10421_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,South Lakeland,16+,2.8,2.9,1400,50200,322
+10458_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,Stafford,16+,3.3,2.1,2200,64400,288
+10459_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,Stafford,16+,3.3,3.4,1900,58400,269
+10598_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,West Lothian,16+,6.9,1.5,6400,92600,1138
+10599_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,West Lothian,16+,6.6,2.3,6000,90800,1119
+10644_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2015,year,York,16+,4.3,1,4700,110600,1540
+10645_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2015,year,York,16+,7.5,9.7,500,6400,71
+10646_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2015,year,York,16+,4.1,1.6,4300,104200,1468
+10652_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Adur,16+,4.9,4.3,1600,32800,95
+10653_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Adur,16+,5,6.9,1600,32300,94
+10654_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,All,16+,4.8,0.1,1552000,32217800,226585
+10655_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2016,year,All,16+,8.3,0.6,336400,4036300,22194
+10656_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,All,16+,4.3,0.1,1214300,28155600,204183
+10701_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Berwick-upon-Tweed,16+,3.9,3.4,500,12700,127
+10702_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Berwick-upon-Tweed,16+,2.3,4.2,300,12500,126
+10792_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Carmarthenshire,16+,4.2,1.1,3800,89500,1345
+10793_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Carmarthenshire,16+,4.3,1.7,3800,88400,1329
+10969_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Guildford,16+,6.1,3.1,4900,80500,226
+10970_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Guildford,16+,6.1,5.1,4500,74800,211
+11017_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Hinckley and Bosworth,16+,2,2,1200,57700,196
+11018_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Hinckley and Bosworth,16+,1.4,2.6,700,54400,186
+11043_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Kerrier,16+,2.7,2.1,1400,50400,231
+11044_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Kerrier,16+,2.7,3.3,1400,50000,229
+11080_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Liverpool,16+,7.1,1.4,16600,235400,1379
+11081_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2016,year,Liverpool,16+,13.3,8.6,3400,25400,150
+11082_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Liverpool,16+,6.3,2.1,13200,210000,1228
+11108_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Merton,16+,3.3,1.5,3800,112400,564
+11109_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2016,year,Merton,16+,7.5,5.9,2800,37800,190
+11110_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Merton,16+,1.2,1.8,900,74000,371
+11144_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Newham,16+,5.8,1.8,10800,185000,655
+11145_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2016,year,Newham,16+,7,3.9,7400,105000,418
+11146_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Newham,16+,4.3,4.1,3400,79900,236
+11185_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Northampton,16+,3.7,1.9,4400,119600,397
+11186_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Northampton,16+,4.2,3.3,4400,105300,355
+11337_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,South Lakeland,16+,1.7,1.4,800,51000,326
+11338_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,South Lakeland,16+,1.7,2.2,800,50500,324
+11375_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,Stafford,16+,6,2.9,3900,65700,253
+11376_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,Stafford,16+,5.7,4.6,3600,62800,243
+11517_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,West Lothian,16+,3.9,1.2,3700,92600,989
+11518_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,West Lothian,16+,3.9,1.9,3500,90200,964
+11560_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2016,year,York,16+,3.9,1,4400,114200,1393
+11561_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2016,year,York,16+,4,1.7,4400,109200,1323
+11567_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Adur,16+,3.2,3.3,1000,30800,111
+11568_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Adur,16+,3.3,5.3,1000,29900,109
+11569_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,All,16+,4.4,0.1,1422600,32527400,227381
+11570_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2017,year,All,16+,7.7,0.6,314000,4081100,21855
+11571_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,All,16+,3.9,0.1,1106100,28423100,205338
+11617_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Berwick-upon-Tweed,16+,3.1,2.9,400,13800,134
+11618_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Berwick-upon-Tweed,16+,3.1,4.7,400,13600,132
+11708_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Carmarthenshire,16+,4.1,1,3700,90500,1431
+11709_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Carmarthenshire,16+,4.1,1.6,3600,88800,1404
+11879_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Guildford,16+,2,1.9,1700,83600,206
+11880_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Guildford,16+,2.1,3.1,1700,80300,200
+11926_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Hinckley and Bosworth,16+,3.4,2.4,1900,55800,211
+11927_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Hinckley and Bosworth,16+,3,3.8,1500,49900,195
+11952_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Kerrier,16+,4,2.6,2000,50300,223
+11953_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Kerrier,16+,4.1,4.1,2000,50000,221
+11989_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Liverpool,16+,5.9,1.3,14200,242000,1301
+11990_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2017,year,Liverpool,16+,14.1,9.7,3400,24300,124
+11991_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Liverpool,16+,5,2,10800,216800,1175
+12017_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Merton,16+,2.3,1.3,2700,116300,512
+12018_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2017,year,Merton,16+,2.4,3.7,900,38000,166
+12019_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Merton,16+,2.2,2.5,1700,78200,346
+12055_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Newham,16+,6.2,2,11200,181100,544
+12056_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2017,year,Newham,16+,7.3,4.3,7700,104900,349
+12057_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Newham,16+,4.7,4.7,3500,75200,193
+12094_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Northampton,16+,6.4,2.5,7300,114500,357
+12095_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2017,year,Northampton,16+,7,10.4,1100,16200,57
+12096_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Northampton,16+,6.3,4.3,6200,98300,300
+12246_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,South Lakeland,16+,1.8,1.5,900,51600,313
+12247_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,South Lakeland,16+,1.8,2.4,900,50800,308
+12286_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,Stafford,16+,4.6,2.7,3300,71900,234
+12287_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,Stafford,16+,4.8,4.4,3300,68700,224
+12423_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,West Lothian,16+,3.3,1.1,3100,94900,932
+12424_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,West Lothian,16+,3.3,1.8,3100,92900,915
+12467_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2017,year,York,16+,2.8,0.9,3000,107100,1347
+12468_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2017,year,York,16+,7.7,11.9,300,4300,48
+12469_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2017,year,York,16+,2.6,1.4,2700,102800,1299
+12475_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Adur,16+,1.9,2.7,600,31300,101
+12476_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Adur,16+,2,4.4,600,30200,98
+12477_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,All,16+,4.2,0.1,1360800,32681300,222088
+12478_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2018,year,All,16+,7.1,0.5,298800,4231200,21530
+12479_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,All,16+,3.7,0.1,1060900,28423400,200364
+12523_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Berwick-upon-Tweed,16+,4.6,3.6,600,13200,130
+12524_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Berwick-upon-Tweed,16+,4.6,5.7,600,13200,129
+12613_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Carmarthenshire,16+,3.4,0.9,2900,86500,1411
+12614_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2018,year,Carmarthenshire,16+,6.7,14.2,200,2200,30
+12615_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Carmarthenshire,16+,3.3,1.5,2800,84300,1381
+12789_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Guildford,16+,4.4,3.1,3400,78700,172
+12790_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Guildford,16+,4.5,4.9,3400,76300,168
+12837_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Hinckley and Bosworth,16+,3,2.4,1600,55300,185
+12838_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Hinckley and Bosworth,16+,3.2,4.2,1600,50400,174
+12863_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Kerrier,16+,2.5,2.1,1300,51500,216
+12864_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Kerrier,16+,2.6,3.4,1300,50800,211
+12900_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Liverpool,16+,4.1,1.1,9900,242300,1279
+12901_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2018,year,Liverpool,16+,7,6.8,1900,27900,135
+12902_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Liverpool,16+,3.7,1.7,7900,211500,1135
+12928_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Merton,16+,3.9,1.7,4800,121400,510
+12929_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2018,year,Merton,16+,7.5,6.5,2900,39000,159
+12930_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Merton,16+,2.2,2.4,1800,82100,349
+12964_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Newham,16+,5.5,2.1,10100,182200,452
+12965_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2018,year,Newham,16+,6.4,4.4,7100,111200,290
+12966_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Newham,16+,4.3,5,3000,69600,159
+13006_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Northampton,16+,6.1,2.4,7500,122100,374
+13007_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2018,year,Northampton,16+,5.4,9.9,800,14900,50
+13008_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Northampton,16+,6.2,4.2,6700,107200,324
+13154_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,South Lakeland,16+,1.8,1.5,900,50000,299
+13155_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,South Lakeland,16+,1.8,2.4,900,48600,293
+13190_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,Stafford,16+,2.2,1.9,1500,67800,235
+13191_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,Stafford,16+,2.4,3.3,1500,61400,216
+13329_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,West Lothian,16+,3.9,1.2,3600,93200,979
+13330_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2018,year,West Lothian,16+,24,23.8,800,3200,31
+13331_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,West Lothian,16+,3.2,1.8,2800,89900,948
+13371_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2018,year,York,16+,2.3,0.8,2600,114500,1212
+13372_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2018,year,York,16+,2.4,1.4,2600,108900,1162
+13378_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,All,16+,3.9,0.1,1287300,32968300,214169
+13379_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2019,year,All,16+,6.6,0.5,289900,4369000,21212
+13380_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,All,16+,3.5,0.1,996900,28583000,192832
+13426_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Berwick-upon-Tweed,16+,4.1,3.7,500,11400,112
+13427_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Berwick-upon-Tweed,16+,4.2,5.9,500,11200,111
+13517_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Carmarthenshire,16+,4,1,3500,86500,1378
+13518_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Carmarthenshire,16+,4.1,1.7,3500,84500,1348
+13686_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Guildford,16+,0.9,1.3,800,88700,213
+13687_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Guildford,16+,1,2.2,800,81500,201
+13731_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Hinckley and Bosworth,16+,3.6,2.7,2300,63500,181
+13732_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Hinckley and Bosworth,16+,3.9,4.6,2300,58800,170
+13789_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Liverpool,16+,4.6,1.2,11100,240800,1158
+13790_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2019,year,Liverpool,16+,11.5,10.1,2100,18700,96
+13791_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Liverpool,16+,4.1,1.9,9000,219600,1053
+13817_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Merton,16+,4.5,1.7,5400,119800,591
+13818_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2019,year,Merton,16+,9,5.9,4100,46000,224
+13819_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Merton,16+,1.7,2.1,1200,73800,367
+13854_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Newham,16+,4.9,2,9300,191100,436
+13855_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2019,year,Newham,16+,6.3,4.6,6900,110900,266
+13856_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Newham,16+,3,4,2400,80200,170
+13896_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Northampton,16+,4.9,2.3,6100,125200,327
+13897_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2019,year,Northampton,16+,7,10,1600,23300,62
+13898_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Northampton,16+,4.4,3.9,4500,101900,265
+14048_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,South Lakeland,16+,1.9,1.5,1000,51300,302
+14049_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,South Lakeland,16+,2,2.5,1000,49700,294
+14085_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,Stafford,16+,3.1,2.3,2100,65800,230
+14086_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,Stafford,16+,3.3,3.7,2100,62200,220
+14226_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,West Lothian,16+,2.2,1,2100,94800,924
+14227_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,West Lothian,16+,2.3,1.5,2100,92900,907
+14270_unemployment,Unemployed,Percentage of individuals unemployed,All,All,2019,year,York,16+,2.6,0.9,2900,113400,1117
+14271_unemployment,Unemployed,Percentage of individuals unemployed,Other than White,White and other,2019,year,York,16+,2.7,7.4,200,5800,46
+14272_unemployment,Unemployed,Percentage of individuals unemployed,White,ONS 2011 5+1,2019,year,York,16+,2.6,1.5,2800,107500,1070

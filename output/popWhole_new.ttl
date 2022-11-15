@@ -1,0 +1,675 @@
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/44_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Pakistani" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "44_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1124511"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/17_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Other - Arab" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "17_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.4"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/41_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "41_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "341727"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/4_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "4_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "4.4"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/37_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Gypsy or Irish Traveller" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "37_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "57680"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/1_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "1_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "80.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/34_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Other - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "34_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.4"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/31_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - African" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "31_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.9"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/51_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Other - Arab" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "51_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "230600"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/23_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Black African" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "23_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.4"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/20_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Irish" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "20_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1.2"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/47_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "47_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "835720"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/19_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "19_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "87.4"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/16_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "16_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/40_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Black African" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "40_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "165974"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/13_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "13_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/10_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Pakistani" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "10_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "2"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/39_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Black Caribbean" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "39_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "426715"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/7_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "7_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.6"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/36_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Irish" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "36_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "531087"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/33_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "33_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.2"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/30_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "30_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/29_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Chinese" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "29_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.4"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/26_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "26_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "2"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/50_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "50_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "280437"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/49_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - Caribbean" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "49_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "594825"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/46_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Chinese" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "46_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "393141"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/18_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Other - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "18_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.6"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/43_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "43_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1412958"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/15_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - Caribbean" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "15_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1.1"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/12_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Chinese" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "12_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.7"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/9_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Indian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "9_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "2.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/6_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Black African" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "6_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.3"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/35_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - British" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "35_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "45134686"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/3_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Gypsy or Irish Traveller" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "3_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.1"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/32_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - Caribbean" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "32_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1.1"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/28_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "28_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/25_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "25_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.3"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/22_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Black Caribbean" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "22_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/48_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - African" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "48_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "989628"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/45_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "45_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "447201"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/42_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "42_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "289984"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/14_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Black - African" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "14_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1.8"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/11_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Bangladeshi" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "11_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.8"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/8_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "8_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.5"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/5_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Black Caribbean" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "5_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.8"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/38_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "38_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "2485942"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/2_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Irish" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "2_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.9"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/27_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Asian - Pakistani" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "27_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "1.4"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/52_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Other - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "52_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2011 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "333096"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "count" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/24_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "Mixed - White and Asian" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "24_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "0.2"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/21_popwhole>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/PopWhole> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasEthnicity>
+                "White - Any other" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "21_popwhole" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasTime>
+                2001 ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValue>
+                "2.6"^^<http://www.w3.org/2001/XMLSchema#double> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasValueType>
+                "% of pop" .

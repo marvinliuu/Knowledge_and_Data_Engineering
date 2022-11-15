@@ -1,0 +1,35 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix fcc: <http://www.example.org/ont#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://data.example.org/>
+@prefix groupD: <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/>
+
+<#WhiteEthnicity>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "WhiteEthnicity"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:WhiteEthnicity ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasIncome;
+    rr:objectMap [
+    rr:column "INCOME";
+    rr:termType rr:Literal;
+    ];
+    ];
+    .

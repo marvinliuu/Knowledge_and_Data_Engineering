@@ -1,0 +1,59 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix fcc: <http://www.example.org/ont#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://data.example.org/>
+@prefix groupD: <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/>
+
+<#PopWhole>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "population_of_england_and_wales"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:PopWhole ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicity;
+    rr:objectMap [ 
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValueType;
+    rr:objectMap [
+    rr:column "VALUETYPE";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+    .

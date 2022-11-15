@@ -1,0 +1,769 @@
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/30_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "30_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/31_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "31_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/32_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "32_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/33_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "33_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/34_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "34_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/35_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "35_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/36_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "36_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/37_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "37_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/38_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "38_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/39_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "39_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/109_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "109_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/108_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "108_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/107_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "107_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/60_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "60_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/61_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "61_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/62_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "62_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/63_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "63_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/64_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "64_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/65_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "65_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/66_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "66_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/67_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "67_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/68_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "68_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/69_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "69_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/106_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "106_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/105_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "105_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/104_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "104_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/103_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "103_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/102_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "102_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/101_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "101_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/100_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "100_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/96_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "96_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/95_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "95_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/94_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "94_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/93_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "93_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/92_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "92_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/91_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "91_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/90_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "90_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/4_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "4_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/5_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "5_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/6_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "6_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/7_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "7_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/8_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "8_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/9_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "9_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/97_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "97_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/98_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "98_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/99_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "99_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/10_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "10_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/11_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "11_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/12_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "12_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/13_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "13_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/14_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "14_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/15_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "15_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/16_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "16_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/17_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "17_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/18_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "18_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/19_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "19_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/40_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "40_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/41_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "41_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/42_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "42_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/43_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "43_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/44_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "44_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/45_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "45_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/46_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "46_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/47_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "47_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/48_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "48_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/49_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "49_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/70_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "70_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/71_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "71_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/72_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "72_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/73_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "73_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/74_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "74_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/75_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "75_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/76_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "76_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/77_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "77_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/78_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "78_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/79_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "79_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/110_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "110_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/20_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "20_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/21_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "21_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/22_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "22_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/23_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "23_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/24_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "24_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/25_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "25_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/26_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "26_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/27_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "27_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/28_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "28_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/29_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "29_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/50_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "50_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/51_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "51_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/52_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "52_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/53_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "53_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/54_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "54_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/55_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "55_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/56_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "56_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/57_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "57_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/58_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "58_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/59_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "59_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/80_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "80_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/81_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "81_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/82_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "82_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/83_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "83_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/84_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "84_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/85_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "85_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/86_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "86_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/87_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "87_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/88_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "88_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/89_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "89_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/1_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "1_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/2_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "2_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/3_blackEthnicity>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/BlackEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "3_blackEthnicity" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .

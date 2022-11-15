@@ -1,0 +1,769 @@
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/67_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "67_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/8_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "8_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/54_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "54_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/32_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "32_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/17_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "17_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/92_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "92_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/77_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "77_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/68_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "68_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/9_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "9_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/55_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "55_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/42_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "42_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/18_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "18_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/93_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "93_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/78_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "78_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/20_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "20_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/80_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "80_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/56_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "56_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/110_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "110_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/43_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "43_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/19_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "19_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/79_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "79_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/21_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "21_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/81_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "81_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/57_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "57_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/44_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "44_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/22_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "22_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/82_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "82_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/58_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "58_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/45_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "45_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/23_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "23_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/83_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "83_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/10_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "10_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/70_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "70_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/59_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "59_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/46_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "46_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/100_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "100_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/33_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "33_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/24_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "24_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/84_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "84_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/69_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "69_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/11_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "11_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/71_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "71_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/47_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "47_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/101_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "101_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/34_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "34_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/94_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "94_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/85_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "85_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/12_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "12_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/72_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "72_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/48_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "48_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/102_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "102_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/35_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "35_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/95_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "95_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/13_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "13_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/73_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "73_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/60_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "60_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/49_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "49_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/1_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "1_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/103_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "103_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/36_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "36_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/96_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "96_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/14_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "14_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/74_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "74_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/61_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "61_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/2_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "2_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/104_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "104_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/37_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "37_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/97_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "97_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/15_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "15_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/75_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "75_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/62_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "62_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/3_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "3_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/105_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "105_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/38_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "38_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/98_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "98_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/40_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "40_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/25_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "25_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/76_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "76_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/63_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "63_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/4_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "4_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/106_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "106_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/50_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "50_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/39_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "39_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/99_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "99_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/41_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "41_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/26_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "26_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,600 or more, but less than GBP 1,800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/86_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "86_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/64_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "64_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/5_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "5_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/51_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "51_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/107_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "107_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/27_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "27_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/87_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "87_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/65_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "65_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/6_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "6_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/52_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "52_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/108_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "108_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/28_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "28_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 2,000 or more" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/88_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "88_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/30_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "30_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 400 or more, but less than GBP 600" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/90_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "90_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,200 or more, but less than GBP 1,400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/66_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "66_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "Less than GBP 200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/7_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "7_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/53_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "53_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/109_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "109_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 800 or more, but less than GBP 1,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/29_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "29_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 200 or more, but less than GBP 400" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/89_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "89_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,000 or more, but less than GBP 1,200" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/31_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "31_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 600 or more, but less than GBP 800" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/16_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "16_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,800 or more, but less than GBP 2,000" .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/91_asianIncome>
+        a       <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/AsianEthnicity> ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasID>
+                "91_asianIncome" ;
+        <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/hasIncome>
+                "GBP 1,400 or more, but less than GBP 1,600" .

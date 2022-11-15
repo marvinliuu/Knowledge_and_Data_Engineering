@@ -1,0 +1,529 @@
+ID,Measure,Ethnicity,Region,UrbanRural,Value,Source,Time
+1_ruralUrban,Ethnicity of the population,All usual residents,England and Wales,Urban,81.5,Census,2011
+2_ruralUrban,Ethnicity of the population,White,England and Wales,Urban,79.1,Census,2011
+3_ruralUrban,Ethnicity of the population,White - British,England and Wales,Urban,78.2,Census,2011
+4_ruralUrban,Ethnicity of the population,White - Irish,England and Wales,Urban,90,Census,2011
+5_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,England and Wales,Urban,75.3,Census,2011
+6_ruralUrban,Ethnicity of the population,White - Other,England and Wales,Urban,92.1,Census,2011
+7_ruralUrban,Ethnicity of the population,Mixed,England and Wales,Urban,92.4,Census,2011
+8_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,England and Wales,Urban,93.4,Census,2011
+9_ruralUrban,Ethnicity of the population,Mixed - White and Black African,England and Wales,Urban,93.8,Census,2011
+10_ruralUrban,Ethnicity of the population,Mixed - White and Asian,England and Wales,Urban,90,Census,2011
+11_ruralUrban,Ethnicity of the population,Mixed - Other,England and Wales,Urban,92.6,Census,2011
+12_ruralUrban,Ethnicity of the population,Asian,England and Wales,Urban,97.4,Census,2011
+13_ruralUrban,Ethnicity of the population,Asian - Indian,England and Wales,Urban,97.3,Census,2011
+14_ruralUrban,Ethnicity of the population,Asian - Pakistani,England and Wales,Urban,99.1,Census,2011
+15_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,England and Wales,Urban,98.7,Census,2011
+16_ruralUrban,Ethnicity of the population,Asian - Chinese,England and Wales,Urban,94.2,Census,2011
+17_ruralUrban,Ethnicity of the population,Asian - Other ,England and Wales,Urban,96.1,Census,2011
+18_ruralUrban,Ethnicity of the population,Black,England and Wales,Urban,98.1,Census,2011
+19_ruralUrban,Ethnicity of the population,Black - African,England and Wales,Urban,98.2,Census,2011
+20_ruralUrban,Ethnicity of the population,Black - Caribbean,England and Wales,Urban,97.9,Census,2011
+21_ruralUrban,Ethnicity of the population,Black - Other ,England and Wales,Urban,98,Census,2011
+22_ruralUrban,Ethnicity of the population,Other ,England and Wales,Urban,97,Census,2011
+23_ruralUrban,Ethnicity of the population,Other - Arab,England and Wales,Urban,97.5,Census,2011
+24_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,England and Wales,Urban,96.6,Census,2011
+25_ruralUrban,Ethnicity of the population,All usual residents,North East,Urban,81.61,Census,2011
+26_ruralUrban,Ethnicity of the population,White,North East,Urban,80.98,Census,2011
+27_ruralUrban,Ethnicity of the population,White - British,North East,Urban,80.87,Census,2011
+28_ruralUrban,Ethnicity of the population,White - Irish,North East,Urban,85.07,Census,2011
+29_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,North East,Urban,77.91,Census,2011
+30_ruralUrban,Ethnicity of the population,White - Other,North East,Urban,87.88,Census,2011
+31_ruralUrban,Ethnicity of the population,Mixed,North East,Urban,88.48,Census,2011
+32_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,North East,Urban,85.2,Census,2011
+33_ruralUrban,Ethnicity of the population,Mixed - White and Black African,North East,Urban,91.41,Census,2011
+34_ruralUrban,Ethnicity of the population,Mixed - White and Asian,North East,Urban,89.01,Census,2011
+35_ruralUrban,Ethnicity of the population,Mixed - Other,North East,Urban,89.47,Census,2011
+36_ruralUrban,Ethnicity of the population,Asian,North East,Urban,95.85,Census,2011
+37_ruralUrban,Ethnicity of the population,Asian - Indian,North East,Urban,93.81,Census,2011
+38_ruralUrban,Ethnicity of the population,Asian - Pakistani,North East,Urban,97.76,Census,2011
+39_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,North East,Urban,98.49,Census,2011
+40_ruralUrban,Ethnicity of the population,Asian - Chinese,North East,Urban,94.83,Census,2011
+41_ruralUrban,Ethnicity of the population,Asian - Other ,North East,Urban,94.42,Census,2011
+42_ruralUrban,Ethnicity of the population,Black,North East,Urban,95.79,Census,2011
+43_ruralUrban,Ethnicity of the population,Black - African,North East,Urban,97.03,Census,2011
+44_ruralUrban,Ethnicity of the population,Black - Caribbean,North East,Urban,86.34,Census,2011
+45_ruralUrban,Ethnicity of the population,Black - Other ,North East,Urban,93.59,Census,2011
+46_ruralUrban,Ethnicity of the population,Other ,North East,Urban,95.35,Census,2011
+47_ruralUrban,Ethnicity of the population,Other - Arab,North East,Urban,95.78,Census,2011
+48_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,North East,Urban,94.87,Census,2011
+49_ruralUrban,Ethnicity of the population,All usual residents,North West,Urban,89.39,Census,2011
+50_ruralUrban,Ethnicity of the population,White,North West,Urban,88.47,Census,2011
+51_ruralUrban,Ethnicity of the population,White - British,North West,Urban,88.27,Census,2011
+52_ruralUrban,Ethnicity of the population,White - Irish,North West,Urban,94.85,Census,2011
+53_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,North West,Urban,90.5,Census,2011
+54_ruralUrban,Ethnicity of the population,White - Other,North West,Urban,93.62,Census,2011
+55_ruralUrban,Ethnicity of the population,Mixed,North West,Urban,95.46,Census,2011
+56_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,North West,Urban,96.2,Census,2011
+57_ruralUrban,Ethnicity of the population,Mixed - White and Black African,North West,Urban,96.91,Census,2011
+58_ruralUrban,Ethnicity of the population,Mixed - White and Asian,North West,Urban,93.77,Census,2011
+59_ruralUrban,Ethnicity of the population,Mixed - Other,North West,Urban,95.3,Census,2011
+60_ruralUrban,Ethnicity of the population,Asian,North West,Urban,98.39,Census,2011
+61_ruralUrban,Ethnicity of the population,Asian - Indian,North West,Urban,98.25,Census,2011
+62_ruralUrban,Ethnicity of the population,Asian - Pakistani,North West,Urban,99.48,Census,2011
+63_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,North West,Urban,99.14,Census,2011
+64_ruralUrban,Ethnicity of the population,Asian - Chinese,North West,Urban,95.33,Census,2011
+65_ruralUrban,Ethnicity of the population,Asian - Other ,North West,Urban,96.75,Census,2011
+66_ruralUrban,Ethnicity of the population,Black,North West,Urban,98.54,Census,2011
+67_ruralUrban,Ethnicity of the population,Black - African,North West,Urban,98.73,Census,2011
+68_ruralUrban,Ethnicity of the population,Black - Caribbean,North West,Urban,98.03,Census,2011
+69_ruralUrban,Ethnicity of the population,Black - Other ,North West,Urban,98.62,Census,2011
+70_ruralUrban,Ethnicity of the population,Other ,North West,Urban,98.09,Census,2011
+71_ruralUrban,Ethnicity of the population,Other - Arab,North West,Urban,98.7,Census,2011
+72_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,North West,Urban,97.33,Census,2011
+73_ruralUrban,Ethnicity of the population,All usual residents,Yorkshire and The Humber,Urban,82.49,Census,2011
+74_ruralUrban,Ethnicity of the population,White,Yorkshire and The Humber,Urban,80.69,Census,2011
+75_ruralUrban,Ethnicity of the population,White - British,Yorkshire and The Humber,Urban,80.37,Census,2011
+76_ruralUrban,Ethnicity of the population,White - Irish,Yorkshire and The Humber,Urban,87.19,Census,2011
+77_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,Yorkshire and The Humber,Urban,82.8,Census,2011
+78_ruralUrban,Ethnicity of the population,White - Other,Yorkshire and The Humber,Urban,90.62,Census,2011
+79_ruralUrban,Ethnicity of the population,Mixed,Yorkshire and The Humber,Urban,91.89,Census,2011
+80_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,Yorkshire and The Humber,Urban,93.26,Census,2011
+81_ruralUrban,Ethnicity of the population,Mixed - White and Black African,Yorkshire and The Humber,Urban,91.8,Census,2011
+82_ruralUrban,Ethnicity of the population,Mixed - White and Asian,Yorkshire and The Humber,Urban,91.07,Census,2011
+83_ruralUrban,Ethnicity of the population,Mixed - Other,Yorkshire and The Humber,Urban,90.41,Census,2011
+84_ruralUrban,Ethnicity of the population,Asian,Yorkshire and The Humber,Urban,97.85,Census,2011
+85_ruralUrban,Ethnicity of the population,Asian - Indian,Yorkshire and The Humber,Urban,96.74,Census,2011
+86_ruralUrban,Ethnicity of the population,Asian - Pakistani,Yorkshire and The Humber,Urban,99.22,Census,2011
+87_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,Yorkshire and The Humber,Urban,98.04,Census,2011
+88_ruralUrban,Ethnicity of the population,Asian - Chinese,Yorkshire and The Humber,Urban,93.69,Census,2011
+89_ruralUrban,Ethnicity of the population,Asian - Other ,Yorkshire and The Humber,Urban,94.89,Census,2011
+90_ruralUrban,Ethnicity of the population,Black,Yorkshire and The Humber,Urban,96.9,Census,2011
+91_ruralUrban,Ethnicity of the population,Black - African,Yorkshire and The Humber,Urban,97.14,Census,2011
+92_ruralUrban,Ethnicity of the population,Black - Caribbean,Yorkshire and The Humber,Urban,96.96,Census,2011
+93_ruralUrban,Ethnicity of the population,Black - Other ,Yorkshire and The Humber,Urban,95.76,Census,2011
+94_ruralUrban,Ethnicity of the population,Other ,Yorkshire and The Humber,Urban,96.59,Census,2011
+95_ruralUrban,Ethnicity of the population,Other - Arab,Yorkshire and The Humber,Urban,97.46,Census,2011
+96_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,Yorkshire and The Humber,Urban,95.63,Census,2011
+97_ruralUrban,Ethnicity of the population,All usual residents,East Midlands,Urban,73.3,Census,2011
+98_ruralUrban,Ethnicity of the population,White,East Midlands,Urban,70.78,Census,2011
+99_ruralUrban,Ethnicity of the population,White - British,East Midlands,Urban,70.11,Census,2011
+100_ruralUrban,Ethnicity of the population,White - Irish,East Midlands,Urban,80.43,Census,2011
+101_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,East Midlands,Urban,74.81,Census,2011
+102_ruralUrban,Ethnicity of the population,White - Other,East Midlands,Urban,86.77,Census,2011
+103_ruralUrban,Ethnicity of the population,Mixed,East Midlands,Urban,87.53,Census,2011
+104_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,East Midlands,Urban,90.09,Census,2011
+105_ruralUrban,Ethnicity of the population,Mixed - White and Black African,East Midlands,Urban,88.08,Census,2011
+106_ruralUrban,Ethnicity of the population,Mixed - White and Asian,East Midlands,Urban,83.79,Census,2011
+107_ruralUrban,Ethnicity of the population,Mixed - Other,East Midlands,Urban,85.72,Census,2011
+108_ruralUrban,Ethnicity of the population,Asian,East Midlands,Urban,95.97,Census,2011
+109_ruralUrban,Ethnicity of the population,Asian - Indian,East Midlands,Urban,96.55,Census,2011
+110_ruralUrban,Ethnicity of the population,Asian - Pakistani,East Midlands,Urban,97.6,Census,2011
+111_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,East Midlands,Urban,97.18,Census,2011
+112_ruralUrban,Ethnicity of the population,Asian - Chinese,East Midlands,Urban,91.99,Census,2011
+113_ruralUrban,Ethnicity of the population,Asian - Other ,East Midlands,Urban,93.42,Census,2011
+114_ruralUrban,Ethnicity of the population,Black,East Midlands,Urban,95.21,Census,2011
+115_ruralUrban,Ethnicity of the population,Black - African,East Midlands,Urban,96.11,Census,2011
+116_ruralUrban,Ethnicity of the population,Black - Caribbean,East Midlands,Urban,94.12,Census,2011
+117_ruralUrban,Ethnicity of the population,Black - Other ,East Midlands,Urban,94.62,Census,2011
+118_ruralUrban,Ethnicity of the population,Other ,East Midlands,Urban,94.41,Census,2011
+119_ruralUrban,Ethnicity of the population,Other - Arab,East Midlands,Urban,95.86,Census,2011
+120_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,East Midlands,Urban,93.52,Census,2011
+121_ruralUrban,Ethnicity of the population,All usual residents,West Midlands,Urban,84.89,Census,2011
+122_ruralUrban,Ethnicity of the population,White,West Midlands,Urban,82.18,Census,2011
+123_ruralUrban,Ethnicity of the population,White - British,West Midlands,Urban,81.82,Census,2011
+124_ruralUrban,Ethnicity of the population,White - Irish,West Midlands,Urban,91.73,Census,2011
+125_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,West Midlands,Urban,72.29,Census,2011
+126_ruralUrban,Ethnicity of the population,White - Other,West Midlands,Urban,90.19,Census,2011
+127_ruralUrban,Ethnicity of the population,Mixed,West Midlands,Urban,94.59,Census,2011
+128_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,West Midlands,Urban,95.93,Census,2011
+129_ruralUrban,Ethnicity of the population,Mixed - White and Black African,West Midlands,Urban,93.97,Census,2011
+130_ruralUrban,Ethnicity of the population,Mixed - White and Asian,West Midlands,Urban,92.66,Census,2011
+131_ruralUrban,Ethnicity of the population,Mixed - Other,West Midlands,Urban,93.5,Census,2011
+132_ruralUrban,Ethnicity of the population,Asian,West Midlands,Urban,98.37,Census,2011
+133_ruralUrban,Ethnicity of the population,Asian - Indian,West Midlands,Urban,98.16,Census,2011
+134_ruralUrban,Ethnicity of the population,Asian - Pakistani,West Midlands,Urban,99.52,Census,2011
+135_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,West Midlands,Urban,99.25,Census,2011
+136_ruralUrban,Ethnicity of the population,Asian - Chinese,West Midlands,Urban,93.61,Census,2011
+137_ruralUrban,Ethnicity of the population,Asian - Other ,West Midlands,Urban,96.91,Census,2011
+138_ruralUrban,Ethnicity of the population,Black,West Midlands,Urban,98.56,Census,2011
+139_ruralUrban,Ethnicity of the population,Black - African,West Midlands,Urban,98.39,Census,2011
+140_ruralUrban,Ethnicity of the population,Black - Caribbean,West Midlands,Urban,98.6,Census,2011
+141_ruralUrban,Ethnicity of the population,Black - Other ,West Midlands,Urban,98.84,Census,2011
+142_ruralUrban,Ethnicity of the population,Other ,West Midlands,Urban,97.65,Census,2011
+143_ruralUrban,Ethnicity of the population,Other - Arab,West Midlands,Urban,97.98,Census,2011
+144_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,West Midlands,Urban,97.46,Census,2011
+145_ruralUrban,Ethnicity of the population,All usual residents,East,Urban,71.09,Census,2011
+146_ruralUrban,Ethnicity of the population,White,East,Urban,69.22,Census,2011
+147_ruralUrban,Ethnicity of the population,White - British,East,Urban,68.38,Census,2011
+148_ruralUrban,Ethnicity of the population,White - Irish,East,Urban,80.87,Census,2011
+149_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,East,Urban,69.79,Census,2011
+150_ruralUrban,Ethnicity of the population,White - Other,East,Urban,82.78,Census,2011
+151_ruralUrban,Ethnicity of the population,Mixed,East,Urban,82.54,Census,2011
+152_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,East,Urban,84.9,Census,2011
+153_ruralUrban,Ethnicity of the population,Mixed - White and Black African,East,Urban,84.41,Census,2011
+154_ruralUrban,Ethnicity of the population,Mixed - White and Asian,East,Urban,79.97,Census,2011
+155_ruralUrban,Ethnicity of the population,Mixed - Other,East,Urban,81.28,Census,2011
+156_ruralUrban,Ethnicity of the population,Asian,East,Urban,92.18,Census,2011
+157_ruralUrban,Ethnicity of the population,Asian - Indian,East,Urban,90.98,Census,2011
+158_ruralUrban,Ethnicity of the population,Asian - Pakistani,East,Urban,97.87,Census,2011
+159_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,East,Urban,96.07,Census,2011
+160_ruralUrban,Ethnicity of the population,Asian - Chinese,East,Urban,86.15,Census,2011
+161_ruralUrban,Ethnicity of the population,Asian - Other ,East,Urban,88.79,Census,2011
+162_ruralUrban,Ethnicity of the population,Black,East,Urban,91.33,Census,2011
+163_ruralUrban,Ethnicity of the population,Black - African,East,Urban,92.69,Census,2011
+164_ruralUrban,Ethnicity of the population,Black - Caribbean,East,Urban,90.52,Census,2011
+165_ruralUrban,Ethnicity of the population,Black - Other ,East,Urban,86.41,Census,2011
+166_ruralUrban,Ethnicity of the population,Other ,East,Urban,86.4,Census,2011
+167_ruralUrban,Ethnicity of the population,Other - Arab,East,Urban,88.93,Census,2011
+168_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,East,Urban,84.99,Census,2011
+169_ruralUrban,Ethnicity of the population,All usual residents,London,Urban,99.8,Census,2011
+170_ruralUrban,Ethnicity of the population,White,London,Urban,99.72,Census,2011
+171_ruralUrban,Ethnicity of the population,White - British,London,Urban,99.65,Census,2011
+172_ruralUrban,Ethnicity of the population,White - Irish,London,Urban,99.83,Census,2011
+173_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,London,Urban,99.52,Census,2011
+174_ruralUrban,Ethnicity of the population,White - Other,London,Urban,99.93,Census,2011
+175_ruralUrban,Ethnicity of the population,Mixed,London,Urban,99.9,Census,2011
+176_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,London,Urban,99.88,Census,2011
+177_ruralUrban,Ethnicity of the population,Mixed - White and Black African,London,Urban,99.91,Census,2011
+178_ruralUrban,Ethnicity of the population,Mixed - White and Asian,London,Urban,99.9,Census,2011
+179_ruralUrban,Ethnicity of the population,Mixed - Other,London,Urban,99.91,Census,2011
+180_ruralUrban,Ethnicity of the population,Asian,London,Urban,99.93,Census,2011
+181_ruralUrban,Ethnicity of the population,Asian - Indian,London,Urban,99.9,Census,2011
+182_ruralUrban,Ethnicity of the population,Asian - Pakistani,London,Urban,99.96,Census,2011
+183_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,London,Urban,99.98,Census,2011
+184_ruralUrban,Ethnicity of the population,Asian - Chinese,London,Urban,99.94,Census,2011
+185_ruralUrban,Ethnicity of the population,Asian - Other ,London,Urban,99.94,Census,2011
+186_ruralUrban,Ethnicity of the population,Black,London,Urban,99.95,Census,2011
+187_ruralUrban,Ethnicity of the population,Black - African,London,Urban,99.95,Census,2011
+188_ruralUrban,Ethnicity of the population,Black - Caribbean,London,Urban,99.95,Census,2011
+189_ruralUrban,Ethnicity of the population,Black - Other ,London,Urban,99.95,Census,2011
+190_ruralUrban,Ethnicity of the population,Other ,London,Urban,99.93,Census,2011
+191_ruralUrban,Ethnicity of the population,Other - Arab,London,Urban,99.95,Census,2011
+192_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,London,Urban,99.92,Census,2011
+193_ruralUrban,Ethnicity of the population,All usual residents,South East,Urban,79.63,Census,2011
+194_ruralUrban,Ethnicity of the population,White,South East,Urban,78.32,Census,2011
+195_ruralUrban,Ethnicity of the population,White - British,South East,Urban,77.85,Census,2011
+196_ruralUrban,Ethnicity of the population,White - Irish,South East,Urban,83.34,Census,2011
+197_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,South East,Urban,66.74,Census,2011
+198_ruralUrban,Ethnicity of the population,White - Other,South East,Urban,86.9,Census,2011
+199_ruralUrban,Ethnicity of the population,Mixed,South East,Urban,87.43,Census,2011
+200_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,South East,Urban,88.36,Census,2011
+201_ruralUrban,Ethnicity of the population,Mixed - White and Black African,South East,Urban,89.82,Census,2011
+202_ruralUrban,Ethnicity of the population,Mixed - White and Asian,South East,Urban,85.79,Census,2011
+203_ruralUrban,Ethnicity of the population,Mixed - Other,South East,Urban,87.4,Census,2011
+204_ruralUrban,Ethnicity of the population,Asian,South East,Urban,93.68,Census,2011
+205_ruralUrban,Ethnicity of the population,Asian - Indian,South East,Urban,93.41,Census,2011
+206_ruralUrban,Ethnicity of the population,Asian - Pakistani,South East,Urban,97.32,Census,2011
+207_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,South East,Urban,94.65,Census,2011
+208_ruralUrban,Ethnicity of the population,Asian - Chinese,South East,Urban,90.35,Census,2011
+209_ruralUrban,Ethnicity of the population,Asian - Other ,South East,Urban,92.24,Census,2011
+210_ruralUrban,Ethnicity of the population,Black,South East,Urban,93.62,Census,2011
+211_ruralUrban,Ethnicity of the population,Black - African,South East,Urban,94.57,Census,2011
+212_ruralUrban,Ethnicity of the population,Black - Caribbean,South East,Urban,91.88,Census,2011
+213_ruralUrban,Ethnicity of the population,Black - Other ,South East,Urban,92.05,Census,2011
+214_ruralUrban,Ethnicity of the population,Other ,South East,Urban,92.14,Census,2011
+215_ruralUrban,Ethnicity of the population,Other - Arab,South East,Urban,92.77,Census,2011
+216_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,South East,Urban,91.76,Census,2011
+217_ruralUrban,Ethnicity of the population,All usual residents,South West,Urban,68.4,Census,2011
+218_ruralUrban,Ethnicity of the population,White,South West,Urban,67.48,Census,2011
+219_ruralUrban,Ethnicity of the population,White - British,South West,Urban,67.03,Census,2011
+220_ruralUrban,Ethnicity of the population,White - Irish,South West,Urban,74.57,Census,2011
+221_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,South West,Urban,62.08,Census,2011
+222_ruralUrban,Ethnicity of the population,White - Other,South West,Urban,80.62,Census,2011
+223_ruralUrban,Ethnicity of the population,Mixed,South West,Urban,82.05,Census,2011
+224_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,South West,Urban,85.31,Census,2011
+225_ruralUrban,Ethnicity of the population,Mixed - White and Black African,South West,Urban,82.67,Census,2011
+226_ruralUrban,Ethnicity of the population,Mixed - White and Asian,South West,Urban,78.35,Census,2011
+227_ruralUrban,Ethnicity of the population,Mixed - Other,South West,Urban,81.46,Census,2011
+228_ruralUrban,Ethnicity of the population,Asian,South West,Urban,89.36,Census,2011
+229_ruralUrban,Ethnicity of the population,Asian - Indian,South West,Urban,92.94,Census,2011
+230_ruralUrban,Ethnicity of the population,Asian - Pakistani,South West,Urban,95.91,Census,2011
+231_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,South West,Urban,91.6,Census,2011
+232_ruralUrban,Ethnicity of the population,Asian - Chinese,South West,Urban,87.5,Census,2011
+233_ruralUrban,Ethnicity of the population,Asian - Other ,South West,Urban,83.3,Census,2011
+234_ruralUrban,Ethnicity of the population,Black,South West,Urban,91.66,Census,2011
+235_ruralUrban,Ethnicity of the population,Black - African,South West,Urban,91.62,Census,2011
+236_ruralUrban,Ethnicity of the population,Black - Caribbean,South West,Urban,91.02,Census,2011
+237_ruralUrban,Ethnicity of the population,Black - Other ,South West,Urban,92.73,Census,2011
+238_ruralUrban,Ethnicity of the population,Other ,South West,Urban,87.02,Census,2011
+239_ruralUrban,Ethnicity of the population,Other - Arab,South West,Urban,91.48,Census,2011
+240_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,South West,Urban,84.46,Census,2011
+241_ruralUrban,Ethnicity of the population,All usual residents,Wales,Urban,67.17,Census,2011
+242_ruralUrban,Ethnicity of the population,White,Wales,Urban,66.21,Census,2011
+243_ruralUrban,Ethnicity of the population,White - British,Wales,Urban,65.98,Census,2011
+244_ruralUrban,Ethnicity of the population,White - Irish,Wales,Urban,69.5,Census,2011
+245_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,Wales,Urban,60.39,Census,2011
+246_ruralUrban,Ethnicity of the population,White - Other,Wales,Urban,77.55,Census,2011
+247_ruralUrban,Ethnicity of the population,Mixed,Wales,Urban,80.43,Census,2011
+248_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,Wales,Urban,81.76,Census,2011
+249_ruralUrban,Ethnicity of the population,Mixed - White and Black African,Wales,Urban,83.91,Census,2011
+250_ruralUrban,Ethnicity of the population,Mixed - White and Asian,Wales,Urban,77.16,Census,2011
+251_ruralUrban,Ethnicity of the population,Mixed - Other,Wales,Urban,80.33,Census,2011
+252_ruralUrban,Ethnicity of the population,Asian,Wales,Urban,89.96,Census,2011
+253_ruralUrban,Ethnicity of the population,Asian - Indian,Wales,Urban,89.52,Census,2011
+254_ruralUrban,Ethnicity of the population,Asian - Pakistani,Wales,Urban,95.31,Census,2011
+255_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,Wales,Urban,95.48,Census,2011
+256_ruralUrban,Ethnicity of the population,Asian - Chinese,Wales,Urban,88.08,Census,2011
+257_ruralUrban,Ethnicity of the population,Asian - Other ,Wales,Urban,84.35,Census,2011
+258_ruralUrban,Ethnicity of the population,Black,Wales,Urban,91.22,Census,2011
+259_ruralUrban,Ethnicity of the population,Black - African,Wales,Urban,93.3,Census,2011
+260_ruralUrban,Ethnicity of the population,Black - Caribbean,Wales,Urban,83.96,Census,2011
+261_ruralUrban,Ethnicity of the population,Black - Other ,Wales,Urban,92.36,Census,2011
+262_ruralUrban,Ethnicity of the population,Other ,Wales,Urban,89.4,Census,2011
+263_ruralUrban,Ethnicity of the population,Other - Arab,Wales,Urban,91.61,Census,2011
+264_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,Wales,Urban,85.64,Census,2011
+265_ruralUrban,Ethnicity of the population,All usual residents,England and Wales,Rural,18.5,Census,2011
+266_ruralUrban,Ethnicity of the population,White,England and Wales,Rural,20.9,Census,2011
+267_ruralUrban,Ethnicity of the population,White - British,England and Wales,Rural,21.8,Census,2011
+268_ruralUrban,Ethnicity of the population,White - Irish,England and Wales,Rural,10,Census,2011
+269_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,England and Wales,Rural,24.7,Census,2011
+270_ruralUrban,Ethnicity of the population,White - Other,England and Wales,Rural,7.9,Census,2011
+271_ruralUrban,Ethnicity of the population,Mixed,England and Wales,Rural,7.6,Census,2011
+272_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,England and Wales,Rural,6.6,Census,2011
+273_ruralUrban,Ethnicity of the population,Mixed - White and Black African,England and Wales,Rural,6.2,Census,2011
+274_ruralUrban,Ethnicity of the population,Mixed - White and Asian,England and Wales,Rural,9.5,Census,2011
+275_ruralUrban,Ethnicity of the population,Mixed - Other,England and Wales,Rural,7.4,Census,2011
+276_ruralUrban,Ethnicity of the population,Asian,England and Wales,Rural,2.6,Census,2011
+277_ruralUrban,Ethnicity of the population,Asian - Indian,England and Wales,Rural,2.7,Census,2011
+278_ruralUrban,Ethnicity of the population,Asian - Pakistani,England and Wales,Rural,0.9,Census,2011
+279_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,England and Wales,Rural,1.3,Census,2011
+280_ruralUrban,Ethnicity of the population,Asian - Chinese,England and Wales,Rural,5.8,Census,2011
+281_ruralUrban,Ethnicity of the population,Asian - Other ,England and Wales,Rural,3.9,Census,2011
+282_ruralUrban,Ethnicity of the population,Black,England and Wales,Rural,1.9,Census,2011
+283_ruralUrban,Ethnicity of the population,Black - African,England and Wales,Rural,1.8,Census,2011
+284_ruralUrban,Ethnicity of the population,Black - Caribbean,England and Wales,Rural,2.1,Census,2011
+285_ruralUrban,Ethnicity of the population,Black - Other ,England and Wales,Rural,2,Census,2011
+286_ruralUrban,Ethnicity of the population,Other ,England and Wales,Rural,3,Census,2011
+287_ruralUrban,Ethnicity of the population,Other - Arab,England and Wales,Rural,2.5,Census,2011
+288_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,England and Wales,Rural,3.4,Census,2011
+289_ruralUrban,Ethnicity of the population,All usual residents,North East,Rural,18.39,Census,2011
+290_ruralUrban,Ethnicity of the population,White,North East,Rural,19.02,Census,2011
+291_ruralUrban,Ethnicity of the population,White - British,North East,Rural,19.13,Census,2011
+292_ruralUrban,Ethnicity of the population,White - Irish,North East,Rural,14.93,Census,2011
+293_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,North East,Rural,22.09,Census,2011
+294_ruralUrban,Ethnicity of the population,White - Other,North East,Rural,12.12,Census,2011
+295_ruralUrban,Ethnicity of the population,Mixed,North East,Rural,11.52,Census,2011
+296_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,North East,Rural,14.8,Census,2011
+297_ruralUrban,Ethnicity of the population,Mixed - White and Black African,North East,Rural,8.59,Census,2011
+298_ruralUrban,Ethnicity of the population,Mixed - White and Asian,North East,Rural,10.99,Census,2011
+299_ruralUrban,Ethnicity of the population,Mixed - Other,North East,Rural,10.53,Census,2011
+300_ruralUrban,Ethnicity of the population,Asian,North East,Rural,4.15,Census,2011
+301_ruralUrban,Ethnicity of the population,Asian - Indian,North East,Rural,6.19,Census,2011
+302_ruralUrban,Ethnicity of the population,Asian - Pakistani,North East,Rural,2.24,Census,2011
+303_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,North East,Rural,1.51,Census,2011
+304_ruralUrban,Ethnicity of the population,Asian - Chinese,North East,Rural,5.17,Census,2011
+305_ruralUrban,Ethnicity of the population,Asian - Other ,North East,Rural,5.58,Census,2011
+306_ruralUrban,Ethnicity of the population,Black,North East,Rural,4.21,Census,2011
+307_ruralUrban,Ethnicity of the population,Black - African,North East,Rural,2.97,Census,2011
+308_ruralUrban,Ethnicity of the population,Black - Caribbean,North East,Rural,13.66,Census,2011
+309_ruralUrban,Ethnicity of the population,Black - Other ,North East,Rural,6.41,Census,2011
+310_ruralUrban,Ethnicity of the population,Other ,North East,Rural,4.65,Census,2011
+311_ruralUrban,Ethnicity of the population,Other - Arab,North East,Rural,4.22,Census,2011
+312_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,North East,Rural,5.13,Census,2011
+313_ruralUrban,Ethnicity of the population,All usual residents,North West,Rural,10.61,Census,2011
+314_ruralUrban,Ethnicity of the population,White,North West,Rural,11.53,Census,2011
+315_ruralUrban,Ethnicity of the population,White - British,North West,Rural,11.73,Census,2011
+316_ruralUrban,Ethnicity of the population,White - Irish,North West,Rural,5.15,Census,2011
+317_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,North West,Rural,9.5,Census,2011
+318_ruralUrban,Ethnicity of the population,White - Other,North West,Rural,6.38,Census,2011
+319_ruralUrban,Ethnicity of the population,Mixed,North West,Rural,4.54,Census,2011
+320_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,North West,Rural,3.8,Census,2011
+321_ruralUrban,Ethnicity of the population,Mixed - White and Black African,North West,Rural,3.09,Census,2011
+322_ruralUrban,Ethnicity of the population,Mixed - White and Asian,North West,Rural,6.23,Census,2011
+323_ruralUrban,Ethnicity of the population,Mixed - Other,North West,Rural,4.7,Census,2011
+324_ruralUrban,Ethnicity of the population,Asian,North West,Rural,1.61,Census,2011
+325_ruralUrban,Ethnicity of the population,Asian - Indian,North West,Rural,1.75,Census,2011
+326_ruralUrban,Ethnicity of the population,Asian - Pakistani,North West,Rural,0.52,Census,2011
+327_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,North West,Rural,0.86,Census,2011
+328_ruralUrban,Ethnicity of the population,Asian - Chinese,North West,Rural,4.67,Census,2011
+329_ruralUrban,Ethnicity of the population,Asian - Other ,North West,Rural,3.25,Census,2011
+330_ruralUrban,Ethnicity of the population,Black,North West,Rural,1.46,Census,2011
+331_ruralUrban,Ethnicity of the population,Black - African,North West,Rural,1.27,Census,2011
+332_ruralUrban,Ethnicity of the population,Black - Caribbean,North West,Rural,1.97,Census,2011
+333_ruralUrban,Ethnicity of the population,Black - Other ,North West,Rural,1.38,Census,2011
+334_ruralUrban,Ethnicity of the population,Other ,North West,Rural,1.91,Census,2011
+335_ruralUrban,Ethnicity of the population,Other - Arab,North West,Rural,1.3,Census,2011
+336_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,North West,Rural,2.67,Census,2011
+337_ruralUrban,Ethnicity of the population,All usual residents,Yorkshire and The Humber,Rural,17.51,Census,2011
+338_ruralUrban,Ethnicity of the population,White,Yorkshire and The Humber,Rural,19.31,Census,2011
+339_ruralUrban,Ethnicity of the population,White - British,Yorkshire and The Humber,Rural,19.63,Census,2011
+340_ruralUrban,Ethnicity of the population,White - Irish,Yorkshire and The Humber,Rural,12.81,Census,2011
+341_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,Yorkshire and The Humber,Rural,17.2,Census,2011
+342_ruralUrban,Ethnicity of the population,White - Other,Yorkshire and The Humber,Rural,9.38,Census,2011
+343_ruralUrban,Ethnicity of the population,Mixed,Yorkshire and The Humber,Rural,8.11,Census,2011
+344_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,Yorkshire and The Humber,Rural,6.74,Census,2011
+345_ruralUrban,Ethnicity of the population,Mixed - White and Black African,Yorkshire and The Humber,Rural,8.2,Census,2011
+346_ruralUrban,Ethnicity of the population,Mixed - White and Asian,Yorkshire and The Humber,Rural,8.93,Census,2011
+347_ruralUrban,Ethnicity of the population,Mixed - Other,Yorkshire and The Humber,Rural,9.59,Census,2011
+348_ruralUrban,Ethnicity of the population,Asian,Yorkshire and The Humber,Rural,2.15,Census,2011
+349_ruralUrban,Ethnicity of the population,Asian - Indian,Yorkshire and The Humber,Rural,3.26,Census,2011
+350_ruralUrban,Ethnicity of the population,Asian - Pakistani,Yorkshire and The Humber,Rural,0.78,Census,2011
+351_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,Yorkshire and The Humber,Rural,1.96,Census,2011
+352_ruralUrban,Ethnicity of the population,Asian - Chinese,Yorkshire and The Humber,Rural,6.31,Census,2011
+353_ruralUrban,Ethnicity of the population,Asian - Other ,Yorkshire and The Humber,Rural,5.11,Census,2011
+354_ruralUrban,Ethnicity of the population,Black,Yorkshire and The Humber,Rural,3.1,Census,2011
+355_ruralUrban,Ethnicity of the population,Black - African,Yorkshire and The Humber,Rural,2.86,Census,2011
+356_ruralUrban,Ethnicity of the population,Black - Caribbean,Yorkshire and The Humber,Rural,3.04,Census,2011
+357_ruralUrban,Ethnicity of the population,Black - Other ,Yorkshire and The Humber,Rural,4.24,Census,2011
+358_ruralUrban,Ethnicity of the population,Other ,Yorkshire and The Humber,Rural,3.41,Census,2011
+359_ruralUrban,Ethnicity of the population,Other - Arab,Yorkshire and The Humber,Rural,2.54,Census,2011
+360_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,Yorkshire and The Humber,Rural,4.37,Census,2011
+361_ruralUrban,Ethnicity of the population,All usual residents,East Midlands,Rural,26.7,Census,2011
+362_ruralUrban,Ethnicity of the population,White,East Midlands,Rural,29.22,Census,2011
+363_ruralUrban,Ethnicity of the population,White - British,East Midlands,Rural,29.89,Census,2011
+364_ruralUrban,Ethnicity of the population,White - Irish,East Midlands,Rural,19.57,Census,2011
+365_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,East Midlands,Rural,25.19,Census,2011
+366_ruralUrban,Ethnicity of the population,White - Other,East Midlands,Rural,13.23,Census,2011
+367_ruralUrban,Ethnicity of the population,Mixed,East Midlands,Rural,12.47,Census,2011
+368_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,East Midlands,Rural,9.91,Census,2011
+369_ruralUrban,Ethnicity of the population,Mixed - White and Black African,East Midlands,Rural,11.92,Census,2011
+370_ruralUrban,Ethnicity of the population,Mixed - White and Asian,East Midlands,Rural,16.21,Census,2011
+371_ruralUrban,Ethnicity of the population,Mixed - Other,East Midlands,Rural,14.28,Census,2011
+372_ruralUrban,Ethnicity of the population,Asian,East Midlands,Rural,4.03,Census,2011
+373_ruralUrban,Ethnicity of the population,Asian - Indian,East Midlands,Rural,3.45,Census,2011
+374_ruralUrban,Ethnicity of the population,Asian - Pakistani,East Midlands,Rural,2.4,Census,2011
+375_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,East Midlands,Rural,2.82,Census,2011
+376_ruralUrban,Ethnicity of the population,Asian - Chinese,East Midlands,Rural,8.01,Census,2011
+377_ruralUrban,Ethnicity of the population,Asian - Other ,East Midlands,Rural,6.58,Census,2011
+378_ruralUrban,Ethnicity of the population,Black,East Midlands,Rural,4.79,Census,2011
+379_ruralUrban,Ethnicity of the population,Black - African,East Midlands,Rural,3.89,Census,2011
+380_ruralUrban,Ethnicity of the population,Black - Caribbean,East Midlands,Rural,5.88,Census,2011
+381_ruralUrban,Ethnicity of the population,Black - Other ,East Midlands,Rural,5.38,Census,2011
+382_ruralUrban,Ethnicity of the population,Other ,East Midlands,Rural,5.59,Census,2011
+383_ruralUrban,Ethnicity of the population,Other - Arab,East Midlands,Rural,4.14,Census,2011
+384_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,East Midlands,Rural,6.48,Census,2011
+385_ruralUrban,Ethnicity of the population,All usual residents,West Midlands,Rural,15.11,Census,2011
+386_ruralUrban,Ethnicity of the population,White,West Midlands,Rural,17.82,Census,2011
+387_ruralUrban,Ethnicity of the population,White - British,West Midlands,Rural,18.18,Census,2011
+388_ruralUrban,Ethnicity of the population,White - Irish,West Midlands,Rural,8.27,Census,2011
+389_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,West Midlands,Rural,27.71,Census,2011
+390_ruralUrban,Ethnicity of the population,White - Other,West Midlands,Rural,9.81,Census,2011
+391_ruralUrban,Ethnicity of the population,Mixed,West Midlands,Rural,5.41,Census,2011
+392_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,West Midlands,Rural,4.07,Census,2011
+393_ruralUrban,Ethnicity of the population,Mixed - White and Black African,West Midlands,Rural,6.03,Census,2011
+394_ruralUrban,Ethnicity of the population,Mixed - White and Asian,West Midlands,Rural,7.34,Census,2011
+395_ruralUrban,Ethnicity of the population,Mixed - Other,West Midlands,Rural,6.5,Census,2011
+396_ruralUrban,Ethnicity of the population,Asian,West Midlands,Rural,1.63,Census,2011
+397_ruralUrban,Ethnicity of the population,Asian - Indian,West Midlands,Rural,1.84,Census,2011
+398_ruralUrban,Ethnicity of the population,Asian - Pakistani,West Midlands,Rural,0.48,Census,2011
+399_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,West Midlands,Rural,0.75,Census,2011
+400_ruralUrban,Ethnicity of the population,Asian - Chinese,West Midlands,Rural,6.39,Census,2011
+401_ruralUrban,Ethnicity of the population,Asian - Other ,West Midlands,Rural,3.09,Census,2011
+402_ruralUrban,Ethnicity of the population,Black,West Midlands,Rural,1.44,Census,2011
+403_ruralUrban,Ethnicity of the population,Black - African,West Midlands,Rural,1.61,Census,2011
+404_ruralUrban,Ethnicity of the population,Black - Caribbean,West Midlands,Rural,1.4,Census,2011
+405_ruralUrban,Ethnicity of the population,Black - Other ,West Midlands,Rural,1.16,Census,2011
+406_ruralUrban,Ethnicity of the population,Other ,West Midlands,Rural,2.35,Census,2011
+407_ruralUrban,Ethnicity of the population,Other - Arab,West Midlands,Rural,2.02,Census,2011
+408_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,West Midlands,Rural,2.54,Census,2011
+409_ruralUrban,Ethnicity of the population,All usual residents,East,Rural,28.91,Census,2011
+410_ruralUrban,Ethnicity of the population,White,East,Rural,30.78,Census,2011
+411_ruralUrban,Ethnicity of the population,White - British,East,Rural,31.62,Census,2011
+412_ruralUrban,Ethnicity of the population,White - Irish,East,Rural,19.13,Census,2011
+413_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,East,Rural,30.21,Census,2011
+414_ruralUrban,Ethnicity of the population,White - Other,East,Rural,17.22,Census,2011
+415_ruralUrban,Ethnicity of the population,Mixed,East,Rural,17.46,Census,2011
+416_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,East,Rural,15.1,Census,2011
+417_ruralUrban,Ethnicity of the population,Mixed - White and Black African,East,Rural,15.59,Census,2011
+418_ruralUrban,Ethnicity of the population,Mixed - White and Asian,East,Rural,20.03,Census,2011
+419_ruralUrban,Ethnicity of the population,Mixed - Other,East,Rural,18.72,Census,2011
+420_ruralUrban,Ethnicity of the population,Asian,East,Rural,7.82,Census,2011
+421_ruralUrban,Ethnicity of the population,Asian - Indian,East,Rural,9.02,Census,2011
+422_ruralUrban,Ethnicity of the population,Asian - Pakistani,East,Rural,2.13,Census,2011
+423_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,East,Rural,3.93,Census,2011
+424_ruralUrban,Ethnicity of the population,Asian - Chinese,East,Rural,13.85,Census,2011
+425_ruralUrban,Ethnicity of the population,Asian - Other ,East,Rural,11.21,Census,2011
+426_ruralUrban,Ethnicity of the population,Black,East,Rural,8.67,Census,2011
+427_ruralUrban,Ethnicity of the population,Black - African,East,Rural,7.31,Census,2011
+428_ruralUrban,Ethnicity of the population,Black - Caribbean,East,Rural,9.48,Census,2011
+429_ruralUrban,Ethnicity of the population,Black - Other ,East,Rural,13.59,Census,2011
+430_ruralUrban,Ethnicity of the population,Other ,East,Rural,13.6,Census,2011
+431_ruralUrban,Ethnicity of the population,Other - Arab,East,Rural,11.07,Census,2011
+432_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,East,Rural,15.01,Census,2011
+433_ruralUrban,Ethnicity of the population,All usual residents,London,Rural,0.2,Census,2011
+434_ruralUrban,Ethnicity of the population,White,London,Rural,0.28,Census,2011
+435_ruralUrban,Ethnicity of the population,White - British,London,Rural,0.35,Census,2011
+436_ruralUrban,Ethnicity of the population,White - Irish,London,Rural,0.17,Census,2011
+437_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,London,Rural,0.48,Census,2011
+438_ruralUrban,Ethnicity of the population,White - Other,London,Rural,0.07,Census,2011
+439_ruralUrban,Ethnicity of the population,Mixed,London,Rural,0.1,Census,2011
+440_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,London,Rural,0.12,Census,2011
+441_ruralUrban,Ethnicity of the population,Mixed - White and Black African,London,Rural,0.09,Census,2011
+442_ruralUrban,Ethnicity of the population,Mixed - White and Asian,London,Rural,0.1,Census,2011
+443_ruralUrban,Ethnicity of the population,Mixed - Other,London,Rural,0.09,Census,2011
+444_ruralUrban,Ethnicity of the population,Asian,London,Rural,0.07,Census,2011
+445_ruralUrban,Ethnicity of the population,Asian - Indian,London,Rural,0.1,Census,2011
+446_ruralUrban,Ethnicity of the population,Asian - Pakistani,London,Rural,0.04,Census,2011
+447_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,London,Rural,0.02,Census,2011
+448_ruralUrban,Ethnicity of the population,Asian - Chinese,London,Rural,0.06,Census,2011
+449_ruralUrban,Ethnicity of the population,Asian - Other ,London,Rural,0.06,Census,2011
+450_ruralUrban,Ethnicity of the population,Black,London,Rural,0.05,Census,2011
+451_ruralUrban,Ethnicity of the population,Black - African,London,Rural,0.05,Census,2011
+452_ruralUrban,Ethnicity of the population,Black - Caribbean,London,Rural,0.05,Census,2011
+453_ruralUrban,Ethnicity of the population,Black - Other ,London,Rural,0.05,Census,2011
+454_ruralUrban,Ethnicity of the population,Other ,London,Rural,0.07,Census,2011
+455_ruralUrban,Ethnicity of the population,Other - Arab,London,Rural,0.05,Census,2011
+456_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,London,Rural,0.08,Census,2011
+457_ruralUrban,Ethnicity of the population,All usual residents,South East,Rural,20.37,Census,2011
+458_ruralUrban,Ethnicity of the population,White,South East,Rural,21.68,Census,2011
+459_ruralUrban,Ethnicity of the population,White - British,South East,Rural,22.15,Census,2011
+460_ruralUrban,Ethnicity of the population,White - Irish,South East,Rural,16.66,Census,2011
+461_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,South East,Rural,33.26,Census,2011
+462_ruralUrban,Ethnicity of the population,White - Other,South East,Rural,13.1,Census,2011
+463_ruralUrban,Ethnicity of the population,Mixed,South East,Rural,12.57,Census,2011
+464_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,South East,Rural,11.64,Census,2011
+465_ruralUrban,Ethnicity of the population,Mixed - White and Black African,South East,Rural,10.18,Census,2011
+466_ruralUrban,Ethnicity of the population,Mixed - White and Asian,South East,Rural,14.21,Census,2011
+467_ruralUrban,Ethnicity of the population,Mixed - Other,South East,Rural,12.6,Census,2011
+468_ruralUrban,Ethnicity of the population,Asian,South East,Rural,6.32,Census,2011
+469_ruralUrban,Ethnicity of the population,Asian - Indian,South East,Rural,6.59,Census,2011
+470_ruralUrban,Ethnicity of the population,Asian - Pakistani,South East,Rural,2.68,Census,2011
+471_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,South East,Rural,5.35,Census,2011
+472_ruralUrban,Ethnicity of the population,Asian - Chinese,South East,Rural,9.65,Census,2011
+473_ruralUrban,Ethnicity of the population,Asian - Other ,South East,Rural,7.76,Census,2011
+474_ruralUrban,Ethnicity of the population,Black,South East,Rural,6.38,Census,2011
+475_ruralUrban,Ethnicity of the population,Black - African,South East,Rural,5.43,Census,2011
+476_ruralUrban,Ethnicity of the population,Black - Caribbean,South East,Rural,8.12,Census,2011
+477_ruralUrban,Ethnicity of the population,Black - Other ,South East,Rural,7.95,Census,2011
+478_ruralUrban,Ethnicity of the population,Other ,South East,Rural,7.86,Census,2011
+479_ruralUrban,Ethnicity of the population,Other - Arab,South East,Rural,7.23,Census,2011
+480_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,South East,Rural,8.24,Census,2011
+481_ruralUrban,Ethnicity of the population,All usual residents,South West,Rural,31.6,Census,2011
+482_ruralUrban,Ethnicity of the population,White,South West,Rural,32.52,Census,2011
+483_ruralUrban,Ethnicity of the population,White - British,South West,Rural,32.97,Census,2011
+484_ruralUrban,Ethnicity of the population,White - Irish,South West,Rural,25.43,Census,2011
+485_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,South West,Rural,37.92,Census,2011
+486_ruralUrban,Ethnicity of the population,White - Other,South West,Rural,19.38,Census,2011
+487_ruralUrban,Ethnicity of the population,Mixed,South West,Rural,17.95,Census,2011
+488_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,South West,Rural,14.69,Census,2011
+489_ruralUrban,Ethnicity of the population,Mixed - White and Black African,South West,Rural,17.33,Census,2011
+490_ruralUrban,Ethnicity of the population,Mixed - White and Asian,South West,Rural,21.65,Census,2011
+491_ruralUrban,Ethnicity of the population,Mixed - Other,South West,Rural,18.54,Census,2011
+492_ruralUrban,Ethnicity of the population,Asian,South West,Rural,10.64,Census,2011
+493_ruralUrban,Ethnicity of the population,Asian - Indian,South West,Rural,7.06,Census,2011
+494_ruralUrban,Ethnicity of the population,Asian - Pakistani,South West,Rural,4.09,Census,2011
+495_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,South West,Rural,8.4,Census,2011
+496_ruralUrban,Ethnicity of the population,Asian - Chinese,South West,Rural,12.5,Census,2011
+497_ruralUrban,Ethnicity of the population,Asian - Other ,South West,Rural,16.7,Census,2011
+498_ruralUrban,Ethnicity of the population,Black,South West,Rural,8.34,Census,2011
+499_ruralUrban,Ethnicity of the population,Black - African,South West,Rural,8.38,Census,2011
+500_ruralUrban,Ethnicity of the population,Black - Caribbean,South West,Rural,8.98,Census,2011
+501_ruralUrban,Ethnicity of the population,Black - Other ,South West,Rural,7.27,Census,2011
+502_ruralUrban,Ethnicity of the population,Other ,South West,Rural,12.98,Census,2011
+503_ruralUrban,Ethnicity of the population,Other - Arab,South West,Rural,8.52,Census,2011
+504_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,South West,Rural,15.54,Census,2011
+505_ruralUrban,Ethnicity of the population,All usual residents,Wales,Rural,32.83,Census,2011
+506_ruralUrban,Ethnicity of the population,White,Wales,Rural,33.79,Census,2011
+507_ruralUrban,Ethnicity of the population,White - British,Wales,Rural,34.02,Census,2011
+508_ruralUrban,Ethnicity of the population,White - Irish,Wales,Rural,30.5,Census,2011
+509_ruralUrban,Ethnicity of the population,White - Gypsy or Irish Traveller,Wales,Rural,39.61,Census,2011
+510_ruralUrban,Ethnicity of the population,White - Other,Wales,Rural,22.45,Census,2011
+511_ruralUrban,Ethnicity of the population,Mixed,Wales,Rural,19.57,Census,2011
+512_ruralUrban,Ethnicity of the population,Mixed - White and Black Caribbean,Wales,Rural,18.24,Census,2011
+513_ruralUrban,Ethnicity of the population,Mixed - White and Black African,Wales,Rural,16.09,Census,2011
+514_ruralUrban,Ethnicity of the population,Mixed - White and Asian,Wales,Rural,22.84,Census,2011
+515_ruralUrban,Ethnicity of the population,Mixed - Other,Wales,Rural,19.67,Census,2011
+516_ruralUrban,Ethnicity of the population,Asian,Wales,Rural,10.04,Census,2011
+517_ruralUrban,Ethnicity of the population,Asian - Indian,Wales,Rural,10.48,Census,2011
+518_ruralUrban,Ethnicity of the population,Asian - Pakistani,Wales,Rural,4.69,Census,2011
+519_ruralUrban,Ethnicity of the population,Asian - Bangladeshi,Wales,Rural,4.52,Census,2011
+520_ruralUrban,Ethnicity of the population,Asian - Chinese,Wales,Rural,11.92,Census,2011
+521_ruralUrban,Ethnicity of the population,Asian - Other ,Wales,Rural,15.65,Census,2011
+522_ruralUrban,Ethnicity of the population,Black,Wales,Rural,8.78,Census,2011
+523_ruralUrban,Ethnicity of the population,Black - African,Wales,Rural,6.7,Census,2011
+524_ruralUrban,Ethnicity of the population,Black - Caribbean,Wales,Rural,16.04,Census,2011
+525_ruralUrban,Ethnicity of the population,Black - Other ,Wales,Rural,7.64,Census,2011
+526_ruralUrban,Ethnicity of the population,Other ,Wales,Rural,10.6,Census,2011
+527_ruralUrban,Ethnicity of the population,Other - Arab,Wales,Rural,8.39,Census,2011
+528_ruralUrban,Ethnicity of the population,Other - Any other ethnic group,Wales,Rural,14.36,Census,2011

@@ -1,0 +1,618 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix fcc: <http://www.example.org/ont#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix geo2: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ex: <http://data.example.org/>
+@prefix groupD: <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/>
+
+<#AsianEthnicity>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "AsianEthnicity"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:AsianEthnicity ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasIncome;
+    rr:objectMap [
+    rr:column "INCOME";
+    rr:termType rr:Literal;
+    ];
+    ];
+    .
+
+
+
+
+<#BlackEthnicity>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "BlackEthnicity"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:BlackEthnicity ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasIncome;
+    rr:objectMap [
+    rr:column "INCOME";
+    rr:termType rr:Literal;
+    ];
+    ];
+    .
+
+
+
+
+<#Ethnicity>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "ethnic_population_of_local_authorities_in_england_and_wales"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:Ethnicity ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasLocal;
+    rr:objectMap [
+    rr:column "LOCAL";
+    rr:termtype rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Contains3 ;
+    rr:objectMap [
+    rr:parentTriplesMap <#Unemployment> ;
+    rr:joinCondition [ rr:child "LOCAL" ; rr:parent "LOCAL" ]
+    ]
+    ];
+    .
+
+
+
+
+<#HourlyAvgPay>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "average_hourly_pay"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:HourlyAvgPay ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+    .
+
+
+
+<#Household>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "household_income_2021"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:Household ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasIncome;
+    rr:objectMap [
+    rr:column "INCOME";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+    .
+
+
+
+
+
+<#Population>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "population_by_ethnicity_and_region"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:Population ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasPopulationNum;
+    rr:objectMap [
+    rr:column "POPULATION";
+    rr:datatype xsd:integer;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasRegion;
+    rr:objectMap [
+    rr:column "REGION";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Contains1 ;
+    rr:objectMap [
+    rr:parentTriplesMap <#UnemploymentRegion> ;
+    rr:joinCondition [ rr:child "REGION" ; rr:parent "REGION" ]
+    ]
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Contains4 ;
+    rr:objectMap [
+    rr:parentTriplesMap <#RuralUrban> ;
+    rr:joinCondition [ rr:child "REGION" ; rr:parent "REGION" ]
+    ]
+    ];   
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Contains5 ;
+    rr:objectMap [
+    rr:parentTriplesMap <#RuralUrban> ;
+    rr:joinCondition [ rr:child "ETHNICITY" ; rr:parent "ETHNICITY" ]
+    ]
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Contains6 ;
+    rr:objectMap [
+    rr:parentTriplesMap <#Household> ;
+    rr:joinCondition [ rr:child "ETHNICITY" ; rr:parent "ETHNICITY" ]
+    ]
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Contains2 ;
+    rr:objectMap [
+    rr:parentTriplesMap <#UnemploymentRegion> ;
+    rr:joinCondition [ rr:child "ETHNICITY" ; rr:parent "ETHNICITY" ]
+    ]
+    ] ;
+    .
+
+
+
+
+
+<#PopWhole>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "population_of_england_and_wales"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:PopWhole ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [ 
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValueType;
+    rr:objectMap [
+    rr:column "VALUETYPE";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+    .
+
+
+
+
+
+
+<#RuralUrban>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "population_by_ethnicity_region_and_urban_rural_location"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:RuralUrban ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasRegion;
+    rr:objectMap [
+    rr:column "REGION";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasUrbanRural;
+    rr:objectMap [
+    rr:column "URBANRURAL";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Contains7 ;
+    rr:objectMap [
+    rr:parentTriplesMap <#UnemploymentRegion> ;
+    rr:joinCondition [ rr:child "ETHNICITY" ; rr:parent "ETHNICITY" ]
+    ]
+    ];
+    .
+
+
+
+
+
+
+
+<#Unemployment>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "unemployment_by_local_authority"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:Unemployment ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasAge;
+    rr:objectMap [
+    rr:column "AGE";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasLocal;
+    rr:objectMap [
+    rr:column "LOCAL";
+    rr:termtype rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasNum;
+    rr:objectMap [
+    rr:column "NUMERATOR";
+    rr:datatype xsd:integer;
+    ];
+    ];
+    .
+
+
+
+
+
+
+<#UnemploymentRegion>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "unemployment_by_region"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:UnemploymentRegion ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasEthnicityType;
+    rr:objectMap [
+    rr:column "ETHNICITY";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasRegion;
+    rr:objectMap [
+    rr:column "REGION";
+    rr:termType rr:Literal;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasValue;
+    rr:objectMap [
+    rr:column "VALUE";
+    rr:datatype xsd:double;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasNumerator;
+    rr:objectMap [
+    rr:column "NUMERATOR";
+    rr:datatype rr:integer;
+    ];
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasTime;
+    rr:objectMap [
+    rr:column "TIME";
+    rr:datatype xsd:integer;
+    ];
+    ];
+    .
+
+
+
+
+
+
+<#WhiteEthnicity>
+    a rr:TriplesMap;
+
+    rr:logicalTable [ rr:tableName "WhiteEthnicity"];
+
+    rr:subjectMap [
+    rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
+    rr:class groupD:WhiteEthnicity ;
+    ];
+    
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasID;
+    rr:objectMap [ 
+    rr:column "ID";
+    rr:termType rr:Literal;
+    ];  
+    ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:hasIncome;
+    rr:objectMap [
+    rr:column "INCOME";
+    rr:termType rr:Literal;
+    ];
+    ];
+    .
