@@ -1,0 +1,19 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:HourlyAvgPay.
+ ?x a groupD:PopWhole.
+ ?a groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasTime ?time.
+ ?a groupD:hasValue ?value1.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasValueType ?valueType.
+ ?x groupD:hasValue ?value2.
+    FILTER(?ethnicity1 = "White British" && ?time = 2013 && ?ethnicity2 = "White - British" && ?valueType = "count")
+    bind(xsd:int(?value1 * ?value2) As ?number) 
+}
