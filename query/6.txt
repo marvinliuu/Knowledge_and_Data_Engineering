@@ -6,7 +6,7 @@ PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 #SELECT (?value*?pop_num as ?number)
 SELECT distinct ?num
 WHERE {
- ?a a groupD:RuralUrban.
+ ?a a groupD:Region.
  ?x a groupD:UnemploymentRegion.
  ?a groupD:lives_in ?ethnicity1.
  ?a groupD:hasUrbanRural ?loc.
