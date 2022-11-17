@@ -8,7 +8,7 @@ SELECT distinct ?number
 WHERE {
  ?a a groupD:Unemployment.
  ?x a groupD:Ethnicity.
- ?x groupD:Contains3 ?local1.
+ ?x groupD:HasAPopulationOf ?local1.
  ?x groupD:hasValue ?value.
  ?x groupD:hasEthnicityType ?ethnicity1.
  ?a groupD:hasEthnicityType ?ethnicity2.

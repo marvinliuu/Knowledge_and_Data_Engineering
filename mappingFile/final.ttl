@@ -110,7 +110,7 @@
     ];
 
     rr:predicateObjectMap [
-    rr:predicate groupD:Contains3 ;
+    rr:predicate groupD:HasAPopulationOf ;
     rr:objectMap [
     rr:parentTriplesMap <#Unemployment> ;
     rr:joinCondition [ rr:child "LOCAL" ; rr:parent "LOCAL" ]
@@ -288,23 +288,7 @@
     ];
 
     rr:predicateObjectMap [
-    rr:predicate groupD:Contains4 ;
-    rr:objectMap [
-    rr:parentTriplesMap <#RuralUrban> ;
-    rr:joinCondition [ rr:child "REGION" ; rr:parent "REGION" ]
-    ]
-    ];   
-
-    rr:predicateObjectMap [
-    rr:predicate groupD:Contains5 ;
-    rr:objectMap [
-    rr:parentTriplesMap <#RuralUrban> ;
-    rr:joinCondition [ rr:child "ETHNICITY" ; rr:parent "ETHNICITY" ]
-    ]
-    ];
-
-    rr:predicateObjectMap [
-    rr:predicate groupD:Contains6 ;
+    rr:predicate groupD:Have_a ;
     rr:objectMap [
     rr:parentTriplesMap <#Household> ;
     rr:joinCondition [ rr:child "ETHNICITY" ; rr:parent "ETHNICITY" ]
@@ -380,14 +364,14 @@
 
 
 
-<#RuralUrban>
+<#Region>
     a rr:TriplesMap;
 
     rr:logicalTable [ rr:tableName "population_by_ethnicity_region_and_urban_rural_location"];
 
     rr:subjectMap [
     rr:template "http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/{ID}" ;
-    rr:class groupD:RuralUrban ;
+    rr:class groupD:Region ;
     ];
     
     rr:predicateObjectMap [
@@ -439,12 +423,20 @@
     ];
 
     rr:predicateObjectMap [
-    rr:predicate groupD:Contains7 ;
+    rr:predicate groupD:lives_in ;
     rr:objectMap [
     rr:parentTriplesMap <#UnemploymentRegion> ;
     rr:joinCondition [ rr:child "ETHNICITY" ; rr:parent "ETHNICITY" ]
     ]
     ];
+
+    rr:predicateObjectMap [
+    rr:predicate groupD:Are_composed ;
+    rr:objectMap [
+    rr:parentTriplesMap <#Population> ;
+    rr:joinCondition [ rr:child "REGION" ; rr:parent "REGION" ]
+    ]
+    ];   
     .
 
 

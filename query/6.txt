@@ -8,7 +8,7 @@ SELECT distinct ?num
 WHERE {
  ?a a groupD:RuralUrban.
  ?x a groupD:UnemploymentRegion.
- ?a groupD:Contains7 ?ethnicity1.
+ ?a groupD:lives_in ?ethnicity1.
  ?a groupD:hasUrbanRural ?loc.
  ?a groupD:hasValue ?value.
  ?x groupD:hasEthnicityType ?ethnicity2.

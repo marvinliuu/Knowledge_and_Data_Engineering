@@ -8,7 +8,7 @@ SELECT distinct ?number
 WHERE {
  ?a a groupD:Population.
  ?x a groupD:Household.
- ?a groupD:Contains6 ?ethnicity1.
+ ?a groupD:Have_a ?ethnicity1.
  ?a groupD:hasRegion ?region.
  ?a groupD:hasPopulationNum ?num.
  ?x groupD:hasEthnicityType ?ethnicity2.
