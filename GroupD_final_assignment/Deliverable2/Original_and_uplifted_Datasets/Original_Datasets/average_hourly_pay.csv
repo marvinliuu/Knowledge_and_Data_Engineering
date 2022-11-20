@@ -1,0 +1,102 @@
+ID,Measure,Time,Time_type,Ethnicity,Value,Value_type,Denominator (weighted)
+1_hourlyPay,Average Hourly Pay,2013,Year,All,10.54,GPB,25111800
+2_hourlyPay,Average Hourly Pay,2013,Year,Asian,10.07,GPB,1332600
+3_hourlyPay,Average Hourly Pay,2013,Year,Black,10.27,GPB,598600
+4_hourlyPay,Average Hourly Pay,2013,Year,Indian,11.55,GPB,599100
+5_hourlyPay,Average Hourly Pay,2013,Year,Mixed,11,GPB,229600
+6_hourlyPay,Average Hourly Pay,2013,Year,Other Asian,10.17,GPB,359400
+7_hourlyPay,Average Hourly Pay,2013,Year,Other,9.69,GPB,317700
+8_hourlyPay,Average Hourly Pay,2013,Year,Pakistani/ Bangladeshi,8.13,GPB,374100
+9_hourlyPay,Average Hourly Pay,2013,Year,White,10.58,GPB,22627300
+10_hourlyPay,Average Hourly Pay,2013,Year,White British,10.6,GPB,20706800
+11_hourlyPay,Average Hourly Pay,2013,Year,White Other,10.13,GPB,1917400
+12_hourlyPay,Average Hourly Pay,2014,Year,All,10.69,GPB,25549400
+13_hourlyPay,Average Hourly Pay,2014,Year,Asian,9.82,GPB,1419900
+14_hourlyPay,Average Hourly Pay,2014,Year,Black,10,GPB,628200
+15_hourlyPay,Average Hourly Pay,2014,Year,Indian,12.03,GPB,650400
+16_hourlyPay,Average Hourly Pay,2014,Year,Mixed,10.41,GPB,249800
+17_hourlyPay,Average Hourly Pay,2014,Year,Other Asian,9.27,GPB,373100
+18_hourlyPay,Average Hourly Pay,2014,Year,Other,9.8,GPB,319600
+19_hourlyPay,Average Hourly Pay,2014,Year,Pakistani/ Bangladeshi,7.89,GPB,396400
+20_hourlyPay,Average Hourly Pay,2014,Year,White,10.81,GPB,22910900
+21_hourlyPay,Average Hourly Pay,2014,Year,White British,10.83,GPB,20790600
+22_hourlyPay,Average Hourly Pay,2014,Year,White Other,10.55,GPB,2118100
+23_hourlyPay,Average Hourly Pay,2015,Year,All,10.82,GPB,26143400
+24_hourlyPay,Average Hourly Pay,2015,Year,Asian,10.16,GPB,1438800
+25_hourlyPay,Average Hourly Pay,2015,Year,Black,9.91,GPB,727600
+26_hourlyPay,Average Hourly Pay,2015,Year,Indian,11.75,GPB,640600
+27_hourlyPay,Average Hourly Pay,2015,Year,Mixed,10.71,GPB,253200
+28_hourlyPay,Average Hourly Pay,2015,Year,Other Asian,9.76,GPB,391700
+29_hourlyPay,Average Hourly Pay,2015,Year,Other,10.02,GPB,359200
+30_hourlyPay,Average Hourly Pay,2015,Year,Pakistani/ Bangladeshi,9.11,GPB,406500
+31_hourlyPay,Average Hourly Pay,2015,Year,White,10.91,GPB,23344000
+32_hourlyPay,Average Hourly Pay,2015,Year,White British,10.95,GPB,21078500
+33_hourlyPay,Average Hourly Pay,2015,Year,White Other,10.29,GPB,2265400
+34_hourlyPay,Average Hourly Pay,2016,Year,All,11.02,GPB,26281700
+35_hourlyPay,Average Hourly Pay,2016,Year,Asian,11,GPB,1530600
+36_hourlyPay,Average Hourly Pay,2016,Year,Black,10.27,GPB,746500
+37_hourlyPay,Average Hourly Pay,2016,Year,Indian,12.5,GPB,684100
+38_hourlyPay,Average Hourly Pay,2016,Year,Mixed,11.26,GPB,280900
+39_hourlyPay,Average Hourly Pay,2016,Year,Other Asian,10.63,GPB,421400
+40_hourlyPay,Average Hourly Pay,2016,Year,Other,10.17,GPB,377000
+41_hourlyPay,Average Hourly Pay,2016,Year,Pakistani/ Bangladeshi,9.36,GPB,425200
+42_hourlyPay,Average Hourly Pay,2016,Year,White,11.05,GPB,23332200
+43_hourlyPay,Average Hourly Pay,2016,Year,White British,11.13,GPB,20890900
+44_hourlyPay,Average Hourly Pay,2016,Year,White Other,10.38,GPB,2441200
+45_hourlyPay,Average Hourly Pay,2017,Year,All,11.41,GPB,26691900
+46_hourlyPay,Average Hourly Pay,2017,Year,Asian,11.14,GPB,1544000
+47_hourlyPay,Average Hourly Pay,2017,Year,Black,10.78,GPB,703400
+48_hourlyPay,Average Hourly Pay,2017,Year,Indian,12.76,GPB,675900
+49_hourlyPay,Average Hourly Pay,2017,Year,Mixed,10.71,GPB,313600
+50_hourlyPay,Average Hourly Pay,2017,Year,Other Asian,11.06,GPB,435900
+51_hourlyPay,Average Hourly Pay,2017,Year,Other,10.58,GPB,383600
+52_hourlyPay,Average Hourly Pay,2017,Year,Pakistani/ Bangladeshi,9.45,GPB,432200
+53_hourlyPay,Average Hourly Pay,2017,Year,White,11.46,GPB,23732100
+54_hourlyPay,Average Hourly Pay,2017,Year,White British,11.53,GPB,21143600
+55_hourlyPay,Average Hourly Pay,2017,Year,White Other,10.74,GPB,2587900
+56_hourlyPay,Average Hourly Pay,2018,Year,All,11.82,GPB,26937000
+57_hourlyPay,Average Hourly Pay,2018,Year,Asian,11.8,GPB,1603700
+58_hourlyPay,Average Hourly Pay,2018,Year,Black,10.8,GPB,766300
+59_hourlyPay,Average Hourly Pay,2018,Year,Indian,13.46,GPB,686100
+60_hourlyPay,Average Hourly Pay,2018,Year,Mixed,12.16,GPB,324100
+61_hourlyPay,Average Hourly Pay,2018,Year,Other Asian,12.5,GPB,432200
+62_hourlyPay,Average Hourly Pay,2018,Year,Other,10.95,GPB,388200
+63_hourlyPay,Average Hourly Pay,2018,Year,Pakistani/ Bangladeshi,9.62,GPB,485400
+64_hourlyPay,Average Hourly Pay,2018,Year,White,11.87,GPB,23838900
+65_hourlyPay,Average Hourly Pay,2018,Year,White British,11.9,GPB,21248700
+66_hourlyPay,Average Hourly Pay,2018,Year,White Other,11.55,GPB,2589000
+67_hourlyPay,Average Hourly Pay,2019,Year,All,12.17,GPB,27207900
+68_hourlyPay,Average Hourly Pay,2019,Year,Asian,12.32,GPB,1663200
+69_hourlyPay,Average Hourly Pay,2019,Year,Black,11.54,GPB,818800
+70_hourlyPay,Average Hourly Pay,2019,Year,Indian,14.43,GPB,737500
+71_hourlyPay,Average Hourly Pay,2019,Year,Mixed,12.3,GPB,322200
+72_hourlyPay,Average Hourly Pay,2019,Year,Other Asian,12.03,GPB,451000
+73_hourlyPay,Average Hourly Pay,2019,Year,Other,11.39,GPB,393900
+74_hourlyPay,Average Hourly Pay,2019,Year,Pakistani/ Bangladeshi,10.55,GPB,474700
+75_hourlyPay,Average Hourly Pay,2019,Year,White,12.21,GPB,24001300
+76_hourlyPay,Average Hourly Pay,2019,Year,White British,12.25,GPB,21274800
+77_hourlyPay,Average Hourly Pay,2019,Year,White Other,12.02,GPB,2726500
+78_hourlyPay,Average Hourly Pay,2020,Year,All,13,GPB,26758200
+79_hourlyPay,Average Hourly Pay,2020,Year,Asian,13.69,GPB,1621700
+80_hourlyPay,Average Hourly Pay,2020,Year,Black,12.16,GPB,722700
+81_hourlyPay,Average Hourly Pay,2020,Year,Indian,15.59,GPB,764800
+82_hourlyPay,Average Hourly Pay,2020,Year,Mixed,13.28,GPB,363300
+83_hourlyPay,Average Hourly Pay,2020,Year,Other Asian,13.74,GPB,435700
+84_hourlyPay,Average Hourly Pay,2020,Year,Other,13.85,GPB,332000
+85_hourlyPay,Average Hourly Pay,2020,Year,Pakistani/ Bangladeshi,11.05,GPB,421300
+86_hourlyPay,Average Hourly Pay,2020,Year,White,13,GPB,23717800
+87_hourlyPay,Average Hourly Pay,2020,Year,White British,12.92,GPB,21830300
+88_hourlyPay,Average Hourly Pay,2020,Year,White Irish,18.69,GPB,179000
+89_hourlyPay,Average Hourly Pay,2020,Year,White Other,13.66,GPB,1709200
+90_hourlyPay,Average Hourly Pay,2021,Year,All,13.57,GPB,26786000
+91_hourlyPay,Average Hourly Pay,2021,Year,Asian,14.29,GPB,1755300
+92_hourlyPay,Average Hourly Pay,2021,Year,Black,12.55,GPB,689600
+93_hourlyPay,Average Hourly Pay,2021,Year,Indian,16.11,GPB,783500
+94_hourlyPay,Average Hourly Pay,2021,Year,Mixed,13.57,GPB,386500
+95_hourlyPay,Average Hourly Pay,2021,Year,Other Asian,14.07,GPB,473600
+96_hourlyPay,Average Hourly Pay,2021,Year,Other,15.04,GPB,362000
+97_hourlyPay,Average Hourly Pay,2021,Year,Pakistani/ Bangladeshi,12.03,GPB,498200
+98_hourlyPay,Average Hourly Pay,2021,Year,White,13.51,GPB,23592200
+99_hourlyPay,Average Hourly Pay,2021,Year,White British,13.46,GPB,21777300
+100_hourlyPay,Average Hourly Pay,2021,Year,White Irish,18.14,GPB,163400
+101_hourlyPay,Average Hourly Pay,2021,Year,White Other,14.03,GPB,1651900

@@ -1,0 +1,269 @@
+<pre>
+1. The unemployment rate in the region with smallest Asian population.
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX : <http://ontologies.geohive.ie/osi#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT ?value
+WHERE {
+?a a groupD:UnemploymentRegion.
+?a groupD:hasEthnicityType ?ethnicity;
+   groupD:hasTime ?time;
+   groupD:hasValue ?value;
+   groupD:hasRegion ?region.
+   {
+        Select ?region{
+            ?x groupD:hasRegion ?region;
+   			groupD:hasEthnicityType ?ethnicity;
+   			groupD:hasPopulationNum ?population;
+   			groupD:hasValue ?value. 
+    		FILTER(?ethnicity="Asian")
+		}
+		ORDER BY ?population
+		LIMIT 1
+	}
+	FILTER(?ethnicity="Asian"&&?time=2019)
+}
+
+
+
+2. The number of unemployed white people living in the London area.
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:UnemploymentRegion.
+    ?x a groupD:Population.
+ ?x groupD:Contains1 ?region.
+ ?x groupD:Contains2 ?ethnicity.
+ ?x groupD:hasPopulationNum ?pop_num.
+ ?a groupD:hasValue ?value.
+ ?a groupD:hasRegion ?region1.
+ ?a groupD:hasTime ?time.
+ ?a groupD:hasEthnicityType ?ethnicity2.
+    FILTER(?region1 = "London" && ?ethnicity2 = "White" && ?time = 2010)
+    FILTER(?region = ?a && ?ethnicity = ?a)
+    bind(xsd:int(?pop_num*?value*0.01) As ?number) 
+}
+
+
+
+3. Based on the unemployment data of Newham in 2004, predict the number of unemployed Chinese in Newham in 2011.
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:Unemployment.
+ ?x a groupD:Ethnicity.
+ ?x groupD:HasAPopulationOf ?local1.
+ ?x groupD:hasValue ?value.
+ ?x groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasEthnicityType ?ethnicity2.
+ ?a groupD:hasLocal ?local2.
+ ?a groupD:hasTime ?time.
+ ?a groupD:hasNum ?num
+    FILTER(?local2 = "Newham" && ?ethnicity2 = "All" && ?time = 2004 && ?ethnicity1 = "Asian/Asian British: Chinese")
+    FILTER(?local1 = ?a)
+    bind(xsd:int(?num*?value*0.01) As ?number) 
+}
+
+
+
+4. How many black people in North East of England live in rural areas in 2011?
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:Population.
+ ?x a groupD:Region.
+ ?x groupD:Are_composed ?region1.
+ ?a groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasPopulationNum ?num.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasRegion ?region2.
+ ?x groupD:hasValue ?value.
+ ?x groupD:hasUrbanRural ?loc.
+    FILTER(?region2 = "North East" && ?ethnicity2 = "Black" && ?loc = "Rural" && ?ethnicity1 = "Black")
+    FILTER(?region1 = ?a)
+    bind(xsd:int(?num*?value*0.01) As ?number) 
+}
+
+
+
+5. How many black people in London have a average weekly household income over GBP 2000?
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:Population.
+ ?x a groupD:Household.
+ ?a groupD:Have_a ?ethnicity1.
+ ?a groupD:hasRegion ?region.
+ ?a groupD:hasPopulationNum ?num.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasIncome ?income.
+ ?x groupD:hasValue ?value.
+ ?x groupD:hasTime ?time.
+    FILTER(?income = "GBP 2,000 or more" && ?ethnicity2 = "Black" && ?time = 2011 && ?region = "London")
+    FILTER(?ethnicity1 = ?x)
+    bind(xsd:int(?num*?value*0.01) As ?number) 
+}
+
+
+6. Based on the unemployment rate in 2004, predict the number of unemployed asian people who live in rural areas of London in 2011.
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?num
+WHERE {
+ ?a a groupD:Region.
+ ?x a groupD:UnemploymentRegion.
+ ?a groupD:lives_in ?ethnicity1.
+ ?a groupD:hasUrbanRural ?loc.
+ ?a groupD:hasValue ?value.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasNumerator ?num.
+ ?x groupD:hasRegion ?region.
+ ?x groupD:hasTime ?time.
+    FILTER(?region = "London" && ?ethnicity2 = "Asian" && ?time = 2004 && ?loc = "Rural")
+    FILTER(?ethnicity1 = ?x)
+    bind(xsd:int(?num*?value*0.01) As ?number) 
+}
+
+
+
+7. How much does the proportion of white Irish people in Manchester differ from the proportion of white Irish people in England and Wales as a whole?
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:Ethnicity.
+ ?x a groupD:PopWhole.
+ ?a groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasLocal ?region.
+ ?a groupD:hasValue ?value1.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasValueType ?valueType.
+ ?x groupD:hasValue ?value2.
+ ?x groupD:hasTime ?time.
+    FILTER(?region = "Manchester" && ?ethnicity1 = "White: Irish" && ?time = 2011 && ?ethnicity2 = "White - Irish" && ?valueType = "% of pop")
+    bind(xsd:double(?value1 - ?value2) As ?number) 
+}
+
+
+8. If we took all the white British people in England and Wales and put them together work an hour, how much would the boss have to pay?
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:HourlyAvgPay.
+ ?x a groupD:PopWhole.
+ ?a groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasTime ?time.
+ ?a groupD:hasValue ?value1.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasValueType ?valueType.
+ ?x groupD:hasValue ?value2.
+    FILTER(?ethnicity1 = "White British" && ?time = 2013 && ?ethnicity2 = "White - British" && ?valueType = "count")
+    bind(xsd:int(?value1 * ?value2) As ?number) 
+}
+
+
+
+9. How much does the proportion of the unemployment rate of white people in Liverpool which is a city in the North East of England differ from the unemployment rate of white people in the whole North East of England?
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:Unemployment.
+ ?x a groupD:UnemploymentRegion.
+ ?a groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasTime ?time1.
+ ?a groupD:hasLocal ?loc.
+ ?a groupD:hasValue ?value1.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasTime ?time2.
+ ?x groupD:hasRegion ?region.
+ ?x groupD:hasValue ?value2.
+    FILTER(?ethnicity1 = "White" && ?time1 = 2004 && ?ethnicity2 = "White" && ?time2 = 2004 && ?region = "North East" && ?loc = "Liverpool")
+    bind(xsd:int(?value1 - ?value2) As ?number) 
+}
+
+
+10. If we took all the all the unemployment white people in Adur and put them together working an hour, how much would the boss pay?
+
+
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:HourlyAvgPay.
+ ?x a groupD:Unemployment.
+ ?a groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasTime ?time1.
+ ?a groupD:hasValue ?value1.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasTime ?time2.
+ ?x groupD:hasLocal ?region.
+ ?x groupD:hasNum ?num.
+    FILTER(?ethnicity1 = "White" && ?time1 = 2013 && ?ethnicity2 = "White" && ?time2 = 2013 && ?region = "Adur")
+    bind(xsd:int(?value1 * ?num) As ?number) 
+}
+
+</pre>

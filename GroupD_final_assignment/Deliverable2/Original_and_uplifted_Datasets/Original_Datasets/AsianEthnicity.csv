@@ -1,0 +1,111 @@
+ID,Measure,Income ,Time,Time_type,Ethnicity,Ethnicity_type,Geography,Value,Value_type,Denominator
+1_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2009,Three-year average,Asian,ONS 5+2,K02000001,7,%,2622
+2_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2009,Three-year average,Asian,ONS 5+2,K02000001,5,%,2622
+3_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2009,Three-year average,Asian,ONS 5+2,K02000001,3,%,2622
+4_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2009,Three-year average,Asian,ONS 5+2,K02000001,2,%,2622
+5_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2009,Three-year average,Asian,ONS 5+2,K02000001,2,%,2622
+6_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2009,Three-year average,Asian,ONS 5+2,K02000001,5,%,2622
+7_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2009,Three-year average,Asian,ONS 5+2,K02000001,21,%,2622
+8_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2009,Three-year average,Asian,ONS 5+2,K02000001,21,%,2622
+9_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2009,Three-year average,Asian,ONS 5+2,K02000001,14,%,2622
+10_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2009,Three-year average,Asian,ONS 5+2,K02000001,11,%,2622
+11_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2009,Three-year average,Asian,ONS 5+2,K02000001,9,%,2622
+12_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2010,Three-year average,Asian,ONS 5+2,K02000001,7,%,2454
+13_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2010,Three-year average,Asian,ONS 5+2,K02000001,6,%,2454
+14_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2010,Three-year average,Asian,ONS 5+2,K02000001,3,%,2454
+15_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2010,Three-year average,Asian,ONS 5+2,K02000001,2,%,2454
+16_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2010,Three-year average,Asian,ONS 5+2,K02000001,2,%,2454
+17_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2010,Three-year average,Asian,ONS 5+2,K02000001,5,%,2454
+18_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2010,Three-year average,Asian,ONS 5+2,K02000001,20,%,2454
+19_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2010,Three-year average,Asian,ONS 5+2,K02000001,22,%,2454
+20_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2010,Three-year average,Asian,ONS 5+2,K02000001,16,%,2454
+21_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2010,Three-year average,Asian,ONS 5+2,K02000001,9,%,2454
+22_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2010,Three-year average,Asian,ONS 5+2,K02000001,9,%,2454
+23_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2011,Three-year average,Asian,ONS 5+2,K02000001,7,%,2226
+24_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2011,Three-year average,Asian,ONS 5+2,K02000001,6,%,2226
+25_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2011,Three-year average,Asian,ONS 5+2,K02000001,3,%,2226
+26_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2011,Three-year average,Asian,ONS 5+2,K02000001,2,%,2226
+27_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2011,Three-year average,Asian,ONS 5+2,K02000001,2,%,2226
+28_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2011,Three-year average,Asian,ONS 5+2,K02000001,6,%,2226
+29_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2011,Three-year average,Asian,ONS 5+2,K02000001,18,%,2226
+30_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2011,Three-year average,Asian,ONS 5+2,K02000001,22,%,2226
+31_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2011,Three-year average,Asian,ONS 5+2,K02000001,17,%,2226
+32_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2011,Three-year average,Asian,ONS 5+2,K02000001,10,%,2226
+33_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2011,Three-year average,Asian,ONS 5+2,K02000001,7,%,2226
+34_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2012,Three-year average,Asian,ONS 5+2,K02000001,7,%,2252
+35_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2012,Three-year average,Asian,ONS 5+2,K02000001,7,%,2252
+36_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2012,Three-year average,Asian,ONS 5+2,K02000001,4,%,2252
+37_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2012,Three-year average,Asian,ONS 5+2,K02000001,2,%,2252
+38_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2012,Three-year average,Asian,ONS 5+2,K02000001,2,%,2252
+39_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2012,Three-year average,Asian,ONS 5+2,K02000001,6,%,2252
+40_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2012,Three-year average,Asian,ONS 5+2,K02000001,17,%,2252
+41_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2012,Three-year average,Asian,ONS 5+2,K02000001,20,%,2252
+42_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2012,Three-year average,Asian,ONS 5+2,K02000001,17,%,2252
+43_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2012,Three-year average,Asian,ONS 5+2,K02000001,10,%,2252
+44_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2012,Three-year average,Asian,ONS 5+2,K02000001,8,%,2252
+45_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2013,Three-year average,Asian,ONS 5+2,K02000001,8,%,2317
+46_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2013,Three-year average,Asian,ONS 5+2,K02000001,6,%,2317
+47_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2013,Three-year average,Asian,ONS 5+2,K02000001,4,%,2317
+48_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2013,Three-year average,Asian,ONS 5+2,K02000001,2,%,2317
+49_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2013,Three-year average,Asian,ONS 5+2,K02000001,2,%,2317
+50_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2013,Three-year average,Asian,ONS 5+2,K02000001,6,%,2317
+51_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2013,Three-year average,Asian,ONS 5+2,K02000001,16,%,2317
+52_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2013,Three-year average,Asian,ONS 5+2,K02000001,20,%,2317
+53_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2013,Three-year average,Asian,ONS 5+2,K02000001,17,%,2317
+54_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2013,Three-year average,Asian,ONS 5+2,K02000001,10,%,2317
+55_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2013,Three-year average,Asian,ONS 5+2,K02000001,8,%,2317
+56_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2014,Three-year average,Asian,ONS 5+2,K02000001,8,%,2380
+57_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2014,Three-year average,Asian,ONS 5+2,K02000001,6,%,2380
+58_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2014,Three-year average,Asian,ONS 5+2,K02000001,4,%,2380
+59_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2014,Three-year average,Asian,ONS 5+2,K02000001,3,%,2380
+60_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2014,Three-year average,Asian,ONS 5+2,K02000001,2,%,2380
+61_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2014,Three-year average,Asian,ONS 5+2,K02000001,6,%,2380
+62_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2014,Three-year average,Asian,ONS 5+2,K02000001,16,%,2380
+63_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2014,Three-year average,Asian,ONS 5+2,K02000001,20,%,2380
+64_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2014,Three-year average,Asian,ONS 5+2,K02000001,16,%,2380
+65_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2014,Three-year average,Asian,ONS 5+2,K02000001,11,%,2380
+66_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2014,Three-year average,Asian,ONS 5+2,K02000001,7,%,2380
+67_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2015,Three-year average,Asian,ONS 5+2,K02000001,9,%,2391
+68_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2015,Three-year average,Asian,ONS 5+2,K02000001,6,%,2391
+69_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2015,Three-year average,Asian,ONS 5+2,K02000001,4,%,2391
+70_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2015,Three-year average,Asian,ONS 5+2,K02000001,3,%,2391
+71_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2015,Three-year average,Asian,ONS 5+2,K02000001,2,%,2391
+72_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2015,Three-year average,Asian,ONS 5+2,K02000001,7,%,2391
+73_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2015,Three-year average,Asian,ONS 5+2,K02000001,15,%,2391
+74_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2015,Three-year average,Asian,ONS 5+2,K02000001,19,%,2391
+75_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2015,Three-year average,Asian,ONS 5+2,K02000001,17,%,2391
+76_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2015,Three-year average,Asian,ONS 5+2,K02000001,11,%,2391
+77_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2015,Three-year average,Asian,ONS 5+2,K02000001,7,%,2391
+78_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2016,Three-year average,Asian,ONS 5+2,K02000001,9,%,2453
+79_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2016,Three-year average,Asian,ONS 5+2,K02000001,6,%,2453
+80_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2016,Three-year average,Asian,ONS 5+2,K02000001,5,%,2453
+81_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2016,Three-year average,Asian,ONS 5+2,K02000001,3,%,2453
+82_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2016,Three-year average,Asian,ONS 5+2,K02000001,2,%,2453
+83_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2016,Three-year average,Asian,ONS 5+2,K02000001,8,%,2453
+84_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2016,Three-year average,Asian,ONS 5+2,K02000001,15,%,2453
+85_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2016,Three-year average,Asian,ONS 5+2,K02000001,19,%,2453
+86_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2016,Three-year average,Asian,ONS 5+2,K02000001,17,%,2453
+87_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2016,Three-year average,Asian,ONS 5+2,K02000001,10,%,2453
+88_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2016,Three-year average,Asian,ONS 5+2,K02000001,6,%,2453
+89_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2017,Three-year average,Asian,ONS 5+2,K02000001,8,%,2566
+90_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2017,Three-year average,Asian,ONS 5+2,K02000001,6,%,2566
+91_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2017,Three-year average,Asian,ONS 5+2,K02000001,5,%,2566
+92_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2017,Three-year average,Asian,ONS 5+2,K02000001,4,%,2566
+93_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2017,Three-year average,Asian,ONS 5+2,K02000001,2,%,2566
+94_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2017,Three-year average,Asian,ONS 5+2,K02000001,9,%,2566
+95_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2017,Three-year average,Asian,ONS 5+2,K02000001,14,%,2566
+96_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2017,Three-year average,Asian,ONS 5+2,K02000001,18,%,2566
+97_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2017,Three-year average,Asian,ONS 5+2,K02000001,16,%,2566
+98_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2017,Three-year average,Asian,ONS 5+2,K02000001,11,%,2566
+99_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2017,Three-year average,Asian,ONS 5+2,K02000001,6,%,2566
+100_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,000 or more, but less than GBP 1,200",2018,Three-year average,Asian,ONS 5+2,K02000001,9,%,2135
+101_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,200 or more, but less than GBP 1,400",2018,Three-year average,Asian,ONS 5+2,K02000001,6,%,2135
+102_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,400 or more, but less than GBP 1,600",2018,Three-year average,Asian,ONS 5+2,K02000001,5,%,2135
+103_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,600 or more, but less than GBP 1,800",2018,Three-year average,Asian,ONS 5+2,K02000001,3,%,2135
+104_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 1,800 or more, but less than GBP 2,000",2018,Three-year average,Asian,ONS 5+2,K02000001,2,%,2135
+105_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 2,000 or more",2018,Three-year average,Asian,ONS 5+2,K02000001,8,%,2135
+106_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 200 or more, but less than GBP 400",2018,Three-year average,Asian,ONS 5+2,K02000001,15,%,2135
+107_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 400 or more, but less than GBP 600",2018,Three-year average,Asian,ONS 5+2,K02000001,17,%,2135
+108_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 600 or more, but less than GBP 800",2018,Three-year average,Asian,ONS 5+2,K02000001,15,%,2135
+109_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,"GBP 800 or more, but less than GBP 1,000",2018,Three-year average,Asian,ONS 5+2,K02000001,12,%,2135
+110_AsianEthnicity,Average weekly household income by ethnic group of the head of the household,Less than GBP 200,2018,Three-year average,Asian,ONS 5+2,K02000001,7,%,2135

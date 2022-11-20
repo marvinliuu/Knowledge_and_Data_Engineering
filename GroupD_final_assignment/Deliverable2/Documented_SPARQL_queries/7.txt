@@ -1,0 +1,20 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT distinct ?number
+WHERE {
+ ?a a groupD:Ethnicity.
+ ?x a groupD:PopWhole.
+ ?a groupD:hasEthnicityType ?ethnicity1.
+ ?a groupD:hasLocal ?region.
+ ?a groupD:hasValue ?value1.
+ ?x groupD:hasEthnicityType ?ethnicity2.
+ ?x groupD:hasValueType ?valueType.
+ ?x groupD:hasValue ?value2.
+ ?x groupD:hasTime ?time.
+    FILTER(?region = "Manchester" && ?ethnicity1 = "White: Irish" && ?time = 2011 && ?ethnicity2 = "White - Irish" && ?valueType = "% of pop")
+    bind(xsd:double(?value1 - ?value2) As ?number) 
+}

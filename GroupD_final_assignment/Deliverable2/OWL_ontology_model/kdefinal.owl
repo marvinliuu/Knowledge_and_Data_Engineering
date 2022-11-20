@@ -1,0 +1,385 @@
+@prefix : <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6> .
+
+<http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Are_composed
+:Are_composed rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain :Region ;
+              rdfs:range :Population .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Belongs_to_a
+:Belongs_to_a rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf owl:topObjectProperty ;
+              rdfs:domain :Person ;
+              rdfs:range :Ethnicity .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Contains
+:Contains rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf owl:topObjectProperty ;
+          rdf:type owl:TransitiveProperty ;
+          rdfs:domain :Population ,
+                      :Region ;
+          rdfs:range :Address ,
+                     :Unemployment .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#HasAPopulationOf
+:HasAPopulationOf rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf owl:topObjectProperty ;
+                  rdfs:domain :Ethnicity ;
+                  rdfs:range :Population .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#HasPay
+:HasPay rdf:type owl:ObjectProperty ;
+        rdfs:subPropertyOf owl:topObjectProperty ;
+        rdfs:domain :Person ;
+        rdfs:range :HourlyAvgPay .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Have_a
+:Have_a rdf:type owl:ObjectProperty ;
+        rdfs:subPropertyOf owl:topObjectProperty ;
+        rdfs:domain :Person ;
+        rdfs:range :HouseHold .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#lives_at
+:lives_at rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf owl:topObjectProperty ;
+          rdfs:domain :Person ;
+          rdfs:range :Address .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#lives_in
+:lives_in rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf owl:topObjectProperty ;
+          rdfs:domain :Unemployment ;
+          rdfs:range :Region .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasAge
+:hasAge rdf:type owl:DatatypeProperty ;
+        rdfs:subPropertyOf owl:topDataProperty ;
+        rdfs:domain :Person ,
+                    :Unemployment ;
+        rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasCity
+:hasCity rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf owl:topDataProperty ;
+         rdfs:domain :Address ;
+         rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasCountry
+:hasCountry rdf:type owl:DatatypeProperty ;
+            rdfs:subPropertyOf owl:topDataProperty ;
+            rdfs:domain :Address ;
+            rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasEthnicityType
+:hasEthnicityType rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf owl:topDataProperty ;
+                  rdfs:domain :Ethnicity ,
+                              :HourlyAvgPay ,
+                              :HouseHold ,
+                              :Population ,
+                              :Region ,
+                              :Unemployment ;
+                  rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasGender
+:hasGender rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf owl:topDataProperty ;
+           rdfs:domain :Person ;
+           rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasID
+:hasID rdf:type owl:DatatypeProperty ;
+       rdfs:subPropertyOf owl:topDataProperty ;
+       rdfs:domain :AsianEthnicity ,
+                   :BlackEthnicity ,
+                   :Ethnicity ,
+                   :HourlyAvgPay ,
+                   :HouseHold ,
+                   :Person ,
+                   :Population ,
+                   :Region ,
+                   :Unemployment ,
+                   :WhiteEthnicity ;
+       rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasIncome
+:hasIncome rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf owl:topDataProperty ;
+           rdfs:domain :AsianEthnicity ,
+                       :BlackEthnicity ,
+                       :HouseHold ,
+                       :WhiteEthnicity ;
+           rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasLastName
+:hasLastName rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             rdfs:domain :Person ;
+             rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasLocal
+:hasLocal rdf:type owl:DatatypeProperty ;
+          rdfs:subPropertyOf owl:topDataProperty ;
+          rdfs:domain :Ethnicity ,
+                      :Unemployment ;
+          rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasName
+:hasName rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf owl:topDataProperty ;
+         rdfs:domain :Person ;
+         rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasNum
+:hasNum rdf:type owl:DatatypeProperty ;
+        rdfs:subPropertyOf owl:topDataProperty ;
+        rdfs:domain :Unemployment ;
+        rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasPopulationNum
+:hasPopulationNum rdf:type owl:DatatypeProperty ;
+                  rdfs:subPropertyOf owl:topDataProperty ;
+                  rdfs:domain :Population ;
+                  rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasPostalCode
+:hasPostalCode rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain :Address ;
+               rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasRegion
+:hasRegion rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf owl:topDataProperty ;
+           rdfs:domain :Population ,
+                       :Region ;
+           rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasRegionID
+:hasRegionID rdf:type owl:DatatypeProperty ;
+             rdfs:subPropertyOf owl:topDataProperty ;
+             rdfs:domain :Address ;
+             rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasState
+:hasState rdf:type owl:DatatypeProperty ;
+          rdfs:subPropertyOf owl:topDataProperty ;
+          rdfs:domain :Address ;
+          rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasStreet
+:hasStreet rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf owl:topDataProperty ;
+           rdfs:domain :Address ;
+           rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasTime
+:hasTime rdf:type owl:DatatypeProperty ;
+         rdfs:subPropertyOf owl:topDataProperty ;
+         rdfs:domain :HourlyAvgPay ,
+                     :HouseHold ,
+                     :Population ,
+                     :Region ,
+                     :Unemployment ;
+         rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasUrbanRural
+:hasUrbanRural rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf owl:topDataProperty ;
+               rdfs:domain :Region ;
+               rdfs:range rdfs:Literal .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#hasValue
+:hasValue rdf:type owl:DatatypeProperty ;
+          rdfs:subPropertyOf owl:topDataProperty ;
+          rdfs:domain :Ethnicity ,
+                      :HourlyAvgPay ,
+                      :HouseHold ,
+                      :Population ,
+                      :Region ,
+                      :Unemployment ;
+          rdfs:range xsd:double .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Address
+:Address rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#AsianEthnicity
+:AsianEthnicity rdf:type owl:Class ;
+                rdfs:subClassOf :Ethnicity .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#BlackEthnicity
+:BlackEthnicity rdf:type owl:Class ;
+                rdfs:subClassOf :Ethnicity .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Ethnicity
+:Ethnicity rdf:type owl:Class ;
+           owl:equivalentClass [ owl:intersectionOf ( :Ethnicity
+                                                      [ rdf:type owl:Restriction ;
+                                                        owl:onProperty :HasAPopulationOf ;
+                                                        owl:minCardinality "1"^^xsd:nonNegativeInteger
+                                                      ]
+                                                    ) ;
+                                 rdf:type owl:Class
+                               ] .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#HourlyAvgPay
+:HourlyAvgPay rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#HouseHold
+:HouseHold rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Person
+:Person rdf:type owl:Class ;
+        owl:equivalentClass [ owl:intersectionOf ( :Person
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :Belongs_to_a ;
+                                                     owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :HasPay ;
+                                                     owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Unemployment
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :Have_a ;
+                                                     owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :lives_at ;
+                                                     owl:minQualifiedCardinality "0"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :lives_in ;
+                                                     owl:minQualifiedCardinality "0"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Unemployment
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :lives_at ;
+                                                     owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :lives_in ;
+                                                     owl:maxCardinality "1"^^xsd:nonNegativeInteger
+                                                   ]
+                                                 ) ;
+                              rdf:type owl:Class
+                            ] .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Population
+:Population rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Region
+:Region rdf:type owl:Class ;
+        owl:equivalentClass [ owl:intersectionOf ( :Person
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :Belongs_to_a ;
+                                                     owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :HasPay ;
+                                                     owl:minCardinality "1"^^xsd:nonNegativeInteger
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :Have_a ;
+                                                     owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :lives_at ;
+                                                     owl:minQualifiedCardinality "0"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :lives_at ;
+                                                     owl:maxQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Person
+                                                   ]
+                                                 ) ;
+                              rdf:type owl:Class
+                            ] ,
+                            [ owl:intersectionOf ( :Region
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :Are_composed ;
+                                                     owl:minQualifiedCardinality "1"^^xsd:nonNegativeInteger ;
+                                                     owl:onClass :Region
+                                                   ]
+                                                   [ rdf:type owl:Restriction ;
+                                                     owl:onProperty :Contains ;
+                                                     owl:minCardinality "1"^^xsd:nonNegativeInteger
+                                                   ]
+                                                 ) ;
+                              rdf:type owl:Class
+                            ] .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#Unemployment
+:Unemployment rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6#WhiteEthnicity
+:WhiteEthnicity rdf:type owl:Class ;
+                rdfs:subClassOf :Ethnicity .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi
