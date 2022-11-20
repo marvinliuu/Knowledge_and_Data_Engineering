@@ -1,0 +1,27 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX groupD:  <http://www.semanticweb.org/liaosiyu/ontologies/2022/10/untitled-ontology-6/>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX : <http://ontologies.geohive.ie/osi#>
+
+#SELECT (?value*?pop_num as ?number)
+SELECT ?value
+WHERE {
+?a a groupD:UnemploymentRegion.
+?a groupD:hasEthnicityType ?ethnicity;
+   groupD:hasTime ?time;
+   groupD:hasValue ?value;
+   groupD:hasRegion ?region.
+   {
+        Select ?region{
+            ?x groupD:hasRegion ?region;
+   			groupD:hasEthnicityType ?ethnicity;
+   			groupD:hasPopulationNum ?population;
+   			groupD:hasValue ?value. 
+    		FILTER(?ethnicity="Asian")
+		}
+		ORDER BY ?population
+		LIMIT 1
+	}
+	FILTER(?ethnicity="Asian"&&?time=2019)
+}

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Specification-Title: Apache Jena - Code Examples
+Specification-Version: 4.6
+Specification-Vendor: Apache Software Foundation
+Implementation-Title: Apache Jena - Code Examples
+Implementation-Version: 4.6.1
+Implementation-Vendor: Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+
